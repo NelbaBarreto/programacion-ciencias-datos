@@ -1,0 +1,594 @@
+,id_limpio,title,author,subjects,genre_1
+0,42065,PROCESO DEL DR. JOSÉ RIZAL MERCADO Y ALONSO,,"{'Rizal, José, 1861-1896', 'Trials (Political crimes and offenses) -- Philippines'}",BIOGRAPHY & AUTOBIOGRAPHY
+1,60675,RECUERDOS DE MI VIDA (TOMO 2 DE 2),"RAMÓN Y CAJAL, SANTIAGO","{'Ramón y Cajal, Santiago, 1852-1934', 'Anatomists -- Spain -- Biography'}",BIOGRAPHY & AUTOBIOGRAPHY
+2,61339,"CLAROS VARONES DE CASTILLA, Y LETRAS","PULGAR, FERNANDO DEL","{'Nobility -- Spain -- Biography -- Early works to 1800', 'Spain -- History -- 711-1516 -- Biography'}",BIOGRAPHY & AUTOBIOGRAPHY
+3,41853,RAFAEL CORDERO: ELOGIO PÓSTUMO,"BRAU, SALVADOR","{'Teachers -- Puerto Rico -- Biography', 'Cordero, Rafael, 1790-1868'}",BIOGRAPHY & AUTOBIOGRAPHY
+4,63359,SAN IGNACIO DE LOYOLA,"MARCOS, BENJAMÍN","{'Ignatius, of Loyola, Saint, 1491-1556'}",BIOGRAPHY & AUTOBIOGRAPHY
+5,52050,AUTOBIOGRAFÍA: OBRAS COMPLETAS VOL. XV,"DARÍO, RUBÉN","{'Darío, Rubén, 1867-1916'}",BIOGRAPHY & AUTOBIOGRAPHY
+6,11071,NAUFRAGIOS DE ALVAR NÚÑEZ CABEZA DE VACA,"NÚÑEZ CABEZA DE VACA, ALVAR, ACTIVE 16TH CENTURY","{'America -- Discovery and exploration -- Spanish', 'Southwestern States -- Description and travel', 'Núñez Cabeza de Vaca, Alvar, active 16th century', 'America -- Early accounts to 1600', 'Indians of North America -- Southwestern States', 'Explorers -- America -- Biography', 'Explorers -- Spain -- Biography'}",BIOGRAPHY & AUTOBIOGRAPHY
+7,41575,JUVENILLA; PROSA LIGERA,"CANÉ, MIGUEL","{'Argentine literature', 'Argentina -- Social life and customs'}",BIOGRAPHY & AUTOBIOGRAPHY
+8,65815,VIDAS EJEMPLARES: BEETHOVEN—MIGUEL ÁNGEL—TOLSTOI,"ROLLAND, ROMAIN","{'Tolstoy, Leo, graf, 1828-1910', 'Michelangelo Buonarroti, 1475-1564', 'Beethoven, Ludwig van, 1770-1827'}",BIOGRAPHY & AUTOBIOGRAPHY
+9,58331,RECUERDOS DE MI VIDA (TOMO 1 DE 2),"RAMÓN Y CAJAL, SANTIAGO","{'Ramón y Cajal, Santiago, 1852-1934', 'Anatomists -- Spain -- Biography'}",BIOGRAPHY & AUTOBIOGRAPHY
+10,48857,FIGURAS AMERICANAS: GALERÍA DE HOMBRES ILLUSTRES,"PÉREZ, MIGUEL AGUSTIN",{'America -- Biography'},BIOGRAPHY & AUTOBIOGRAPHY
+11,9890,"BIOGRAFIA DEL LIBERTADOR SIMON BOLÍVAR, Ó LA INDEPENDENCIA DE LA AMÉRICA DEL SUD: RESEÑA HISTÓRICO-BIOGRÁFICA","CAMPANO, LORENZO","{'South America -- History -- Wars of Independence, 1806-1830', 'Bolívar, Simón, 1783-1830', 'Heads of state -- South America -- Biography'}",BIOGRAPHY & AUTOBIOGRAPHY
+12,26545,ANTONIO AZORÍN: PEQUEÑO LIBRO EN QUE SE HABLA DE LA VIDA DE ESTE PEREGRINO SEÑOR,"MARTÍNEZ RUIZ, JOSÉ","{'Azorín, 1873-1967'}",BIOGRAPHY & AUTOBIOGRAPHY
+13,53294,RECUERDOS DEL TIEMPO VIEJO,"ZORRILLA, JOSÉ","{'Zorrilla, José, 1817-1893'}",BIOGRAPHY & AUTOBIOGRAPHY
+14,73179,COLON EN PUERTO-RICO,"COLL Y TOSTE, CAYETANO","{'Puerto Rico -- History -- To 1898', 'Columbus, Christopher, 1451-1506'}",BIOGRAPHY & AUTOBIOGRAPHY
+15,59879,AMÉRICO VESPUCIO,"PÉREZ GOMAR, G. (GREGORIO)","{'Vespucci, Amerigo, 1451-1512'}",BIOGRAPHY & AUTOBIOGRAPHY
+16,53927,"APUNTES BIOGRAFICOS DE ESCRITORES, ORADORES Y HOMBRES DE ESTADO DE LA REPUBLICA ARGENTINA","GUTIÉRREZ, JUAN MARÍA",{'Argentina -- Biography'},BIOGRAPHY & AUTOBIOGRAPHY
+17,58261,VIDA DE CERVANTES,"MAYANS Y SISCAR, GREGORIO","{'Valencia (Spain) -- Intellectual life', 'Cervantes Saavedra, Miguel de, 1547-1616'}",BIOGRAPHY & AUTOBIOGRAPHY
+18,30280,VIDA Y OBRAS DE DON DIEGO VELÁZQUEZ,"PICÓN, JACINTO OCTAVIO","{'Velázquez, Diego, 1599-1660'}",BIOGRAPHY & AUTOBIOGRAPHY
+19,45171,MIS CONTEMPORANEOS; 1 VICENTE BLASCO IBÁÑEZ,"ZAMACOIS, EDUARDO","{'Blasco Ibáñez, Vicente, 1867-1928'}",BIOGRAPHY & AUTOBIOGRAPHY
+20,56047,"CABEZAS: PENSADORES Y ARTISTAS, POLÍTICOS: OBRAS COMPLETAS VOL. XXII","DARÍO, RUBÉN","{'Latin America -- Biography', 'Spain -- Biography', 'Authors, Latin American -- Biography'}",BIOGRAPHY & AUTOBIOGRAPHY
+21,67408,"LA VERBENA DE LA PALOMA; O, EL BOTICARIO Y LAS CHULAPAS Y CELOS MAL REPRIMIDOS",,{'Zarzuelas -- Librettos'},DRAMA
+22,53947,LA SEÑORITA DE TREVELEZ: FARSA CÓMICA EN TRES ACTOS,"ARNICHES Y BARRERA, CARLOS","{'Spanish drama', 'Comedy plays'}",DRAMA
+23,10909,LOS AMANTES DE TERUEL: DRAMA EN CUATRO ACTOS EN VERSO Y PROSA,"HARTZENBUSCH, JUAN EUGENIO",{'Lovers of Teruel (Legend) -- Drama'},DRAMA
+24,10821,MANFREDO: DRAMA EN TRES ACTOS,"BYRON, GEORGE GORDON BYRON, BARON",{'Drama'},DRAMA
+25,49013,LA VENGANZA DE DON MENDO,"MUÑOZ SECA, PEDRO",{'Spanish drama'},DRAMA
+26,51465,"COMEDIA LLAMADA SELVAGIA, COMEDIA SERAFINA","VILLEGAS, ALONSO DE","{'Spanish drama -- Classical period, 1500-1700'}",DRAMA
+27,52036,UN AÑO EN QUINCE MINUTOS: PIEZA EN UN ACTO,"GARCÍA GONZÁLEZ, MANUEL",{'Spanish drama'},DRAMA
+28,65486,DRAMAS (1 DE 2): HERNANI; EL REY SE DIVIERTE; LOS BURGRAVES,"HUGO, VICTOR",{'French drama -- Translations into Spanish'},DRAMA
+29,56454,HAMLET: DRAMA EN CINCO ACTOS,"SHAKESPEARE, WILLIAM","{""Murder victims' families -- Drama"", 'Revenge -- Drama', 'Kings and rulers -- Succession -- Drama', 'Tragedies (Drama)', 'Hamlet (Legendary character) -- Drama', 'Princes -- Drama', 'Denmark -- Drama', 'Fathers -- Death -- Drama'}",DRAMA
+30,67726,SEÑORA AMA: COMEDIA EN TRES ACTOS,"BENAVENTE, JACINTO","{'Husband and wife -- Drama', 'Jealousy -- Drama', 'Spanish drama -- 20th century'}",DRAMA
+31,63509,EDIPO REY; EDIPO EN COLONA; ANTÍGONA,SOPHOCLES,"{'Tragedies (Drama)', 'Oedipus (Greek mythological figure) -- Drama'}",DRAMA
+32,69799,"COMEDIAS, TOMO 2 DE 3 : $B LAS AVISPAS, LA PAZ, LAS AVES, LISÍSTRATA",ARISTOPHANES,"{'Athens (Greece) -- Drama', 'Greek drama (Comedy) -- Translations into Spanish', 'Aristophanes -- Translations into Spanish'}",DRAMA
+33,31707,CARLOS BROSCHI,"SCRIBE, EUGÈNE",{'French fiction -- Translations into Spanish'},DRAMA
+34,60927,COMEDIAS ESCOGIDAS,"FERNÁNDEZ DE MORATÍN, LEANDRO",{'Spanish drama -- 19th century'},DRAMA
+35,67895,ES MI HOMBRE: TRAGEDIA GROTESCA EN TRES ACTOS,"ARNICHES Y BARRERA, CARLOS",{'Spanish drama -- 20th century'},DRAMA
+36,63328,"TEATRO SELECTO, TOMO 4 DE 4","CALDERÓN DE LA BARCA, PEDRO","{'Spanish drama -- Classical period, 1500-1700'}",DRAMA
+37,63019,SAINETES,"ARNICHES Y BARRERA, CARLOS","{'Burlesque (Literature)', 'Spanish drama -- 20th century', 'Sainetes', 'Spanish drama (Comedy)'}",DRAMA
+38,70542,"COMEDIAS, TOMO 3 DE 3 : $B LAS FIESTAS DE CERES, LAS RANAS, LAS JUNTERAS, PLUTO",ARISTOPHANES,"{'Athens (Greece) -- Drama', 'Greek drama (Comedy) -- Translations into Spanish', 'Aristophanes -- Translations into Spanish'}",DRAMA
+39,57590,LA VERDAD SOSPECHOSA,"RUIZ DE ALARCÓN, JUAN","{'Spanish drama -- Classical period, 1500-1700'}",DRAMA
+40,57955,LOS ENTREMESES,"CERVANTES SAAVEDRA, MIGUEL DE","{'Spanish drama -- Classical period, 1500-1700'}",DRAMA
+41,59492,"DON ÁLVARO, O, LA FUERZA DEL SINO","RIVAS, ANGEL DE SAAVEDRA, DUQUE DE",{'Spanish drama -- 19th century'},DRAMA
+42,10506,"ROMANCE DE LOBOS, COMEDIA BARBARA","VALLE-INCLÁN, RAMÓN DEL",{'Spanish drama'},DRAMA
+43,14795,JUNTO AL PASIG,"RIZAL, JOSÉ",{'Drama'},DRAMA
+44,57035,COMEDIAS INÉDITAS,"VEGA, LOPE DE","{'Spanish drama -- Classical period, 1500-1700'}",DRAMA
+45,55917,"TEATRO SELECTO, TOMO 2 DE 4","CALDERÓN DE LA BARCA, PEDRO","{'Spanish drama -- Classical period, 1500-1700'}",DRAMA
+46,52595,"QUINCE MINUTOS EN GLOBO: DISPARATE CÓMICO-LÍRICO-BAILABLE EN UN ACTO, EN PROSA Y VERSO","BARBERÁ, JOAQUÍN",{'Zarzuelas -- Librettos'},DRAMA
+47,58643,"TEATRO SELECTO, TOMO 3 DE 4","CALDERÓN DE LA BARCA, PEDRO","{'Spanish drama -- Classical period, 1500-1700'}",DRAMA
+48,75775,OBRAS DRAMÁTICAS DE EURÍPIDES (3 DE 3),EURIPIDES,set(),DRAMA
+49,51130,"TRAGICOMEDIA DE LISANDRO Y ROSELIA: LLAMADA ELICIA, Y POR OTRO NOMBRE CUARTA OBRA Y TERCERA CELESTINA.","MUÑÓN, SANCHO DE, ACTIVE 1542","{'Spanish drama -- Classical period, 1500-1700'}",DRAMA
+50,60198,FUENTE OVEJUNA,"VEGA, LOPE DE","{'Fuenteovejuna (Spain) -- History -- Drama', 'Spanish drama -- Classical period, 1500-1700'}",DRAMA
+51,28408,"COMEDIAS: EL REMEDIO EN LA DESDICHA; EL MEJOR ALCALDE, EL REY","VEGA, LOPE DE",{'Spanish drama'},DRAMA
+52,50027,EL SÍ DE LAS NIÑAS,"FERNÁNDEZ DE MORATÍN, LEANDRO",{'Spanish drama (Comedy)'},DRAMA
+53,28106,HEATH'S MODERN LANGUAGE SERIES: TRES COMEDIAS: SIN QUERER; DE PEQUENAS CAUSAS...; LOS INTERESES CREADOS,"BENAVENTE, JACINTO","{'Spanish drama', 'Comedy plays'}",DRAMA
+54,65584,DRAMAS (2 DE 2): LUCRECIA BORGIA; MARÍA TUDOR; LA ESMERALDA; RUY BLAS,"HUGO, VICTOR",{'French drama -- Translations into Spanish'},DRAMA
+55,69951,DIVINAS PALABRAS : $B TRAGICOMEDIA DE ALDEA,"VALLE-INCLÁN, RAMÓN DEL","{'Spanish drama -- 20th century', 'Tragicomedy'}",DRAMA
+56,68745,LUCES DE BOHEMIA: ESPERPENTO,"VALLE-INCLÁN, RAMÓN DEL","{'Blind -- Drama', 'Spanish drama -- 20th century', 'Poverty -- Drama', 'Poets -- Drama'}",DRAMA
+57,68566,FAUSTO: PRIMERA PARTE,"GOETHE, JOHANN WOLFGANG VON","{'German poetry -- Translations into Spanish', 'Faust, -approximately 1540 -- Drama', 'Legends -- Germany -- Drama', 'Magicians -- Drama'}",DRAMA
+58,19847,DON FRANCISCO DE QUEVEDO: DRAMA EN CUATRO ACTOS,"SANZ, EULOGIO FLORENTINO","{'Quevedo, Francisco de, 1580-1645 -- Drama'}",DRAMA
+59,66023,TRAGEDIAS,AESCHYLUS,"{'Mythology, Greek -- Drama', 'Aeschylus -- Translations into Spanish'}",DRAMA
+60,42456,EL JAYÓN: DRAMA EN TRES ACTOS,"ESPINA, CONCHA",{'Drama'},DRAMA
+61,68443,"COMEDIAS, TOMO 1 DE 3 : $B LOS ACARNIENSES, LOS CABALLEROS, LAS NUBES",ARISTOPHANES,"{'Athens (Greece) -- Drama', 'Greek drama (Comedy) -- Translations into Spanish', 'Aristophanes -- Translations into Spanish'}",DRAMA
+62,53207,DRAMAS DE GUILLERMO SHAKSPEARE [VOL. 1],"SHAKESPEARE, WILLIAM","{'Shakespeare, William, 1564-1616 -- Translations into Spanish', 'English drama -- Translations into Spanish'}",DRAMA
+63,18580,LOS FAVORES DEL MUNDO,"RUIZ DE ALARCÓN, JUAN",{'Drama'},DRAMA
+64,28002,ELECTRA,"PÉREZ GALDÓS, BENITO",{'Spanish drama'},DRAMA
+65,74704,OBRAS DRAMÁTICAS DE EURÍPIDES (2 DE 3),EURIPIDES,{'Greek drama (Tragedy) -- Translations into Spanish'},DRAMA
+66,59686,DRAMAS DE GUILLERMO SHAKSPEARE [VOL. 4],"SHAKESPEARE, WILLIAM","{'Shakespeare, William, 1564-1616 -- Translations into Spanish', 'English drama -- Translations into Spanish'}",DRAMA
+67,25687,TRES COMEDIAS MODERNAS: EN UN ACTO Y EN PROSA,"BARRANCO, MARIANO","{'Spanish drama', 'Comedy plays'}",DRAMA
+68,73500,OBRAS DRAMÁTICAS DE EURÍPIDES (1 DE 3),EURIPIDES,{'Greek drama (Tragedy) -- Translations into Spanish'},DRAMA
+69,16110,VIAGE AL PARNASO: LA NUMANCIA (TRAGEDIA) Y EL TRATO DE ARGEL (COMEDIA),"CERVANTES SAAVEDRA, MIGUEL DE","{'Spanish poetry', 'Spanish drama'}",DRAMA
+70,48670,TEATRO GALANTE,"ZAMACOIS, EDUARDO",{'Spanish drama'},DRAMA
+71,59629,JUAN JOSÉ: DRAMA EN TRES ACTOS Y EN PROSA,"DICENTA, JOAQUÍN",{'Spanish drama -- 19th century'},DRAMA
+72,67638,"LOS CACIQUES: FARSA CÓMICA DE COSTUMBRES DE POLÍTICA RURAL, DISTRIBUÍDA EN TRES ACTOS","ARNICHES Y BARRERA, CARLOS",{'Spanish drama -- 20th century'},DRAMA
+73,67354,LA TOSCA: DRAMA TRÁGICO EN CUATRO ACTOS DIVIDIDOS EN CINCO CUADROS,"SARDOU, VICTORIEN","{'Tragedies (Drama)', 'French drama -- Translations into Spanish'}",DRAMA
+74,54436,"TEATRO SELECTO, TOMO 1 DE 4","CALDERÓN DE LA BARCA, PEDRO","{'Spanish drama -- Classical period, 1500-1700'}",DRAMA
+75,29677,HEATH'S MODERN LANGUAGE SERIES: EL TROVADOR,"GARCÍA GUTIÉRREZ, ANTONIO",{'Spanish drama'},DRAMA
+76,23206,LA MOZA DE CÁNTARO,"VEGA, LOPE DE",{'Spanish drama'},DRAMA
+77,14796,EL CONSEJO DE LOS DIOSES,"RIZAL, JOSÉ",{'Fiction'},DRAMA
+78,48091,"LA FAMILIA DE LEÓN ROCH, TOMO 1","PÉREZ GALDÓS, BENITO",{'Spanish fiction'},FICTION
+79,49418,"LAS MÁSCARAS, VOL. 2/2","PÉREZ DE AYALA, RAMÓN",{'Drama -- History and criticism'},FICTION
+80,27214,CUENTOS Y DIÁLOGOS,"VALERA, JUAN","{'Spanish fiction', 'Spanish drama'}",FICTION
+81,61874,ALMA VASCA,"SALAVERRÍA, JOSÉ MARÍA",{'Basques'},FICTION
+82,14944,LA BARRACA,"BLASCO IBÁÑEZ, VICENTE","{'Valencia (Spain : Province) -- Fiction', 'Tenant farmers -- Fiction', 'Absentee landlordism -- Fiction'}",FICTION
+83,5985,"ZADIG, Ó EL DESTINO, HISTORIA ORIENTAL",VOLTAIRE,"{'French literature -- 18th century', 'Political fiction, French', 'Manners and customs -- Fiction'}",FICTION
+84,47103,EL APRENDIZ DE CONSPIRADOR,"BAROJA, PÍO","{'Aviraneta e Ibargoyen, Eugenio de, 1792-1872 -- Fiction'}",FICTION
+85,24823,SILAS MARNER,"ELIOT, GEORGE","{'Domestic fiction', 'Weavers -- Fiction', 'Adopted children -- Fiction', 'England -- Fiction', 'England -- Social life and customs -- 19th century -- Fiction', 'Foundlings -- Fiction', 'Fathers and daughters -- Fiction'}",FICTION
+86,59631,LA CASA DE LOS CUERVOS,"WAST, HUGO",{'Santa Fe (Argentina : Province) -- History -- Fiction'},FICTION
+87,53429,EL SABOR DE LA TIERRUCA,"PEREDA, JOSÉ MARÍA DE",{'Spanish fiction -- 19th century'},FICTION
+88,72768,BOCETOS AL TEMPLE. TIPOS TRASHUMANTES : $B OBRAS COMPLETAS - VOL. VIII,"PEREDA, JOSÉ MARÍA DE",{'Spanish fiction -- 19th century'},FICTION
+89,11657,LA NIÑA DE LUZMELA,"ESPINA, CONCHA",{'Spanish fiction -- 20th century'},FICTION
+90,24601,EL CUARTO PODER,"PALACIO VALDÉS, ARMANDO",{'Spanish fiction'},FICTION
+91,17340,MARIANELA,"PÉREZ GALDÓS, BENITO",{'Spanish fiction'},FICTION
+92,29901,LIETTE,"DOURLIAC, ARTHUR",{'Fiction'},FICTION
+93,29830,EL TESORO MISTERIOSO,"LE QUEUX, WILLIAM",{'Detective and mystery stories'},FICTION
+94,36990,LA LETRA ESCARLATA: NOVELA ESCRITA EN INGLÉS,"HAWTHORNE, NATHANIEL","{'Illegitimate children -- Fiction', 'Adultery -- Fiction', 'Women immigrants -- Fiction', 'Revenge -- Fiction', 'Boston (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction', 'Clergy -- Fiction', 'Married women -- Fiction', 'Triangles (Interpersonal relations) -- Fiction', 'Puritans -- Fiction', 'Historical fiction', 'Psychological fiction'}",FICTION
+95,53330,DAFNIS Y CLOE; LEYENDAS DEL ANTIGUO ORIENTE (FRAGMENTOS),"VALERA, JUAN","{'Spanish literature', 'Daphnis (Greek mythology) -- Fiction'}",FICTION
+96,68154,TIRANO BANDERAS: NOVELA DE TIERRA CALIENTE,"VALLE-INCLÁN, RAMÓN DEL","{'Imaginary revolutions -- Fiction', 'Imaginary societies -- Fiction', 'Dictators -- Fiction'}",FICTION
+97,75382,PACHÍN GONZÁLEZ,"PEREDA, JOSÉ MARÍA DE","{'Cabo Machichaco (Barco) -- Fiction', 'Historical fiction', 'Spanish fiction -- 19th century', 'Santander (Spain) -- History -- 19th century -- Fiction'}",FICTION
+98,54120,LA ISABELINA,"BAROJA, PÍO","{'Aviraneta e Ibargoyen, Eugenio de, 1792-1872 -- Fiction'}",FICTION
+99,51858,LOS CONTRASTES DE LA VIDA,"BAROJA, PÍO","{'Aviraneta e Ibargoyen, Eugenio de, 1792-1872 -- Fiction'}",FICTION
+100,67248,EL CLAVO,"ALARCÓN, PEDRO ANTONIO DE","{'Detective and mystery stories', 'Spanish fiction -- 19th century'}",FICTION
+101,24925,AMAR ES VENCER,"CARO, PAULINE",{'French fiction -- Translations into Spanish'},FICTION
+102,41106,"LA VOZ DE LA CONSEJA, T.2: SELECCIÓN DE LAS MEJORES NOVELAS BREVES Y CUENTOS DE LOS MÁS ESCLARECIDOS LITERATOS","ÁLVAREZ QUINTERO, JOAQUÍN",{'Spanish fiction'},FICTION
+103,14308,EL PRÉSTAMO DE LA DIFUNTA,"BLASCO IBÁÑEZ, VICENTE",{'Fiction'},FICTION
+104,75126,SAB (NOVELA ORIGINAL),"GÓMEZ DE AVELLANEDA, GERTRUDIS","{'Love stories', 'Slavery -- Fiction', 'Enslaved persons -- Fiction', 'Cuba -- Fiction', 'Sugar plantations -- Fiction'}",FICTION
+105,30213,ALGO DE TODO,"VALERA, JUAN",{'Essays'},FICTION
+106,15027,LA NOVELA PICARESCA,,"{'Picaresque literature, Spanish', 'Spanish fiction'}",FICTION
+107,70868,MEMORIAS DE UN CORTESANO DE 1815,"PÉREZ GALDÓS, BENITO","{'Spain -- History -- Ferdinand VII, 1813-1833 -- Fiction'}",FICTION
+108,62201,LOS LADRONES DE LONDRES,"DICKENS, CHARLES","{'Criminals -- Fiction', 'London (England) -- Fiction', 'Boys -- Fiction', 'Kidnapping victims -- Fiction', 'Bildungsromans', 'Orphans -- Fiction'}",FICTION
+109,12848,LAS INQUIETUDES DE SHANTI ANDIA,"BAROJA, PÍO","{'Sea stories', 'Slave trade -- Fiction', 'Ship captains -- Fiction'}",FICTION
+110,13507,CUENTOS DE AMOR DE LOCURA Y DE MUERTE,"QUIROGA, HORACIO","{'Short stories, Uruguayan', 'Uruguayan fiction'}",FICTION
+111,45835,"LA ARAÑA NEGRA, T. 7/9","BLASCO IBÁÑEZ, VICENTE","{'Historical fiction', 'Jesuits -- Spain -- History -- 19th century -- Fiction', 'Spanish fiction -- 19th century'}",FICTION
+112,22909,LA NOVELA DE UN JOVEN POBRE,"FEUILLET, OCTAVE",{'Young men -- France -- Fiction'},FICTION
+113,49560,"MONJA Y CASADA, VÍRGEN Y MÁRTIR","RIVA PALACIO, VICENTE","{'Mexico -- History -- Spanish colony, 1540-1810 -- Fiction'}",FICTION
+114,31724,LA GRAN ALDEA; COSTUMBRES BONAERENSES,"LÓPEZ, LUCIO VICENTE","{'Buenos Aires (Argentina) -- Social life and customs -- 19th century -- Fiction', 'Argentine fiction -- 19th century'}",FICTION
+115,60464,EL ÁRBOL DE LA CIENCIA: NOVELA,"BAROJA, PÍO","{'Spain -- Fiction', 'Spanish fiction -- 20th century', 'Madrid (Spain) -- Fiction', 'Medical students -- Fiction', 'Physicians -- Fiction'}",FICTION
+116,49836,NIEBLA (NIVOLA),"UNAMUNO, MIGUEL DE","{'Experimental fiction', 'Spanish fiction -- 20th century'}",FICTION
+117,67415,GERONA,"PÉREZ GALDÓS, BENITO","{'Gerona (Spain) -- History -- Siege, 1808-1809 -- Fiction', 'Spain -- History -- Napoleonic Conquest, 1808-1813 -- Fiction'}",FICTION
+118,61438,SÓNNICA LA CORTESANA: NOVELA,"BLASCO IBÁÑEZ, VICENTE","{'Sagunto (Spain) -- History -- Siege, 219-218 B.C. -- Fiction'}",FICTION
+119,74029,LA DAMA DE LAS CAMELIAS; UNA FAMILIA CORSA,"DUMAS, ALEXANDRE","{'Brothers -- Fiction', 'Paris (France) -- Fiction', 'Courtesans -- Fiction', 'Love stories', 'Twins -- Fiction', 'Tuberculosis -- Patients -- Fiction', 'Vendetta -- Fiction', 'Corsica (France) -- Fiction', 'French fiction -- Translations into Spanish', 'Fathers and sons -- Fiction'}",FICTION
+120,75133,EL CONDE DE CANDESPINA (1 DE 2) : $B NOVELA HISTÓRICA ORIGINAL,"ESCOSURA, PATRICIO DE LA",{'Historical fiction'},FICTION
+121,46496,"CUENTOS CLÁSICOS DEL NORTE, SEGUNDA SERIE","IRVING, WASHINGTON",{'American literature -- Translations into Spanish'},FICTION
+122,27100,HISTORIA DE UNA PARISIENSE,"FEUILLET, OCTAVE",{'Paris (France) -- Fiction'},FICTION
+123,74041,EL LIBRO DE LAS MIL NOCHES Y UNA NOCHE; T. 6,ANONYMOUS,"{'Arabs -- Folklore', 'Tales -- Arab countries', 'Folklore -- Arab countries', 'Fairy tales', 'Fairy tales -- Arab countries'}",FICTION
+124,43432,LA LUCHA POR LA VIDA: LA BUSCA,"BAROJA, PÍO",{'Spanish fiction -- 20th century'},FICTION
+125,45834,"LA ARAÑA NEGRA, T. 6/9","BLASCO IBÁÑEZ, VICENTE","{'Historical fiction', 'Jesuits -- Spain -- History -- 19th century -- Fiction', 'Spanish fiction -- 19th century'}",FICTION
+126,23600,LA GAVIOTA,"CABALLERO, FERNÁN","{'Women -- Spain -- Fiction', 'Spanish fiction -- 19th century'}",FICTION
+127,16413,ARROZ Y TARTANA,"BLASCO IBÁÑEZ, VICENTE",{'Spanish fiction'},FICTION
+128,43033,LA LUCHA POR LA VIDA: MALA HIERBA,"BAROJA, PÍO",{'Spanish fiction -- 20th century'},FICTION
+129,45829,"LA ARAÑA NEGRA, T. 1/9","BLASCO IBÁÑEZ, VICENTE","{'Historical fiction', 'Jesuits -- Spain -- History -- 19th century -- Fiction', 'Spanish fiction -- 19th century'}",FICTION
+130,29663,"TRES MUJERES: LA RECOMPENSA, PRUEBA DE UN ALMA, AMORES ROMÁNTICOS","PICÓN, JACINTO OCTAVIO",{'Spanish fiction'},FICTION
+131,27738,HEATH'S MODERN LANGUAGE SERIES: JOSÉ,"PALACIO VALDÉS, ARMANDO",{'Spanish language -- Textbooks for foreign speakers -- English'},FICTION
+132,69873,CUENTOS ILUSTRADOS,"FABRA, NILO MARÍA","{'Short stories, Spanish', 'Political fiction, Spanish', 'Spanish fiction -- 19th century'}",FICTION
+133,57261,EL DOCTOR CENTENO (NOVELA COMPLETA),"PÉREZ GALDÓS, BENITO",{'Spanish fiction -- 19th century'},FICTION
+134,39990,AÑOS DE JUVENTUD DEL DOCTOR ANGÉLICO,"PALACIO VALDÉS, ARMANDO",{'Spanish fiction'},FICTION
+135,45830,"LA ARAÑA NEGRA, T. 2/9","BLASCO IBÁÑEZ, VICENTE","{'Historical fiction', 'Jesuits -- Spain -- History -- 19th century -- Fiction', 'Spanish fiction -- 19th century'}",FICTION
+136,54430,LAS NOCHES MEJICANAS,"AIMARD, GUSTAVE",{'French fiction -- Translations into Spanish'},FICTION
+137,50492,HISTORIA DE GIL BLAS DE SANTILLANA: NOVELA (VOL 1 DE 3),"LE SAGE, ALAIN RENÉ","{'Blas, Gil (Fictitious character) -- Fiction', 'Adventure and adventurers -- Fiction'}",FICTION
+138,58298,"LA DAMA ERRANTE: LA RAZA, TOMO I","BAROJA, PÍO",{'Spanish fiction -- 20th century'},FICTION
+139,49417,"LAS MÁSCARAS, VOL. 1/2","PÉREZ DE AYALA, RAMÓN",{'Drama -- History and criticism'},FICTION
+140,45833,"LA ARAÑA NEGRA, T. 5/9","BLASCO IBÁÑEZ, VICENTE","{'Historical fiction', 'Jesuits -- Spain -- History -- 19th century -- Fiction', 'Spanish fiction -- 19th century'}",FICTION
+141,17443,UN FACCIOSO MÁS Y ALGUNOS FRAILES MENOS,"PÉREZ GALDÓS, BENITO",{'Spain -- History -- 19th century -- Fiction'},FICTION
+142,62952,EL CASAMIENTO DE LAUCHA,"PAYRÓ, ROBERTO JORGE",{'Argentine fiction -- 20th century'},FICTION
+143,60137,UNA CRISTIANA,"PARDO BAZÁN, EMILIA, CONDESA DE",{'Spanish fiction -- 19th century'},FICTION
+144,22092,PASARSE DE LISTO,"VALERA, JUAN",{'Fiction'},FICTION
+145,60147,VIDA DEL ESCUDERO MARCOS DE OBREGÓN,"ESPINEL, VICENTE","{'Picaresque literature, Spanish', 'Spanish fiction -- Classical period, 1500-1700'}",FICTION
+146,53743,EL MISTERIO DE UN HOMBRE PEQUEÑITO: NOVELA,"ZAMACOIS, EDUARDO",{'Spanish fiction'},FICTION
+147,29640,GERMANA,"ABOUT, EDMOND",{'French fiction -- Translations into Spanish'},FICTION
+148,320,VIDA DE LAZARILLO DE TORMES Y DE SUS FORTUNAS Y ADVERSIDADES,ANONYMOUS,"{'Spain -- Social conditions -- 16th century -- Fiction', 'Picaresque literature, Spanish', 'Spanish fiction'}",FICTION
+149,26508,FIEBRE DE AMOR (DOMINIQUE),"FROMENTIN, EUGÈNE","{'Love stories', 'Friendship -- Fiction'}",FICTION
+150,16082,ANGELINA: (NOVELA MEXICANA),"DELGADO, RAFAEL",{'Man-woman relationships -- Fiction'},FICTION
+151,59244,SI YO FUERA RICO! NOVELA ORIGINAL,"LARRA, LUIS MARIANO DE",{'Spanish fiction -- 19th century'},FICTION
+152,25640,LOS ARGONAUTAS,"BLASCO IBÁÑEZ, VICENTE",{'Spanish fiction'},FICTION
+153,14995,LOS HOMBRES DE PRO,"PEREDA, JOSÉ MARÍA DE",{'Fiction'},FICTION
+154,66514,CUENTOS VALENCIANOS,"BLASCO IBÁÑEZ, VICENTE","{'Short stories, Spanish', 'Spanish fiction -- 20th century', 'Valencia (Spain) -- Social life and customs -- Fiction'}",FICTION
+155,54386,PARIS EN AMÉRICA,"LABOULAYE, ÉDOUARD","{'United States -- Social life and customs -- 1783-1865', 'United States -- Description and travel'}",FICTION
+156,32315,"HISTORIA DE LA VIDA DEL BUSCÓN, LLAMADO DON PABLOS, EJEMPLO DE VAGABUNDOS Y ESPEJO DE TACAÑOS","QUEVEDO, FRANCISCO DE","{'Picaresque literature, Spanish', 'Spanish fiction -- Classical period, 1500-1700'}",FICTION
+157,55514,CUENTOS DE AMOR,"PARDO BAZÁN, EMILIA, CONDESA DE","{'Short stories, Spanish', 'Romance fiction, Spanish'}",FICTION
+158,15115,NOVELAS Y TEATRO,"CERVANTES SAAVEDRA, MIGUEL DE","{'Spanish fiction -- Classical period, 1500-1700', 'Spanish drama -- Classical period, 1500-1700'}",FICTION
+159,12627,ESCENAS MONTAÑESAS,"PEREDA, JOSÉ MARÍA DE",{'Spanish literature'},FICTION
+160,47784,SÍ SÉ POR QUÉ: NOVELA,"TRIGO, FELIPE",{'Spanish fiction -- 20th century'},FICTION
+161,52597,INSOLACIÓN Y MORRIÑA (DOS HISTORIAS AMOROSAS),"PARDO BAZÁN, EMILIA, CONDESA DE","{'Romance fiction, Spanish', 'Spanish fiction -- 19th century'}",FICTION
+162,60634,DIVERTIDAS AVENTURAS DEL NIETO DE JUAN MOREIRA,"PAYRÓ, ROBERTO JORGE",{'Argentine fiction -- 20th century'},FICTION
+163,31613,EL SUPERHOMBRE Y OTRAS NOVEDADES,"VALERA, JUAN",{'Spanish literature'},FICTION
+164,49149,AMOR Y PEDAGOGÍA,"UNAMUNO, MIGUEL DE","{'Stream of consciousness fiction', 'Spanish fiction', 'Psychological fiction'}",FICTION
+165,58059,LA MADRE NATURALEZA (2ª PARTE DE LOS PAZOS DE ULLOA),"PARDO BAZÁN, EMILIA, CONDESA DE","{'Aristocracy (Social class) -- Spain -- Fiction', 'Love stories', 'Social classes -- Spain -- Fiction', 'Siblings -- Fiction', 'Clergy -- Spain -- Fiction', 'Galicia (Spain : Region) -- Fiction', 'Country life -- Spain -- Galicia (Region) -- Fiction', 'Incest -- Fiction'}",FICTION
+166,45832,"LA ARAÑA NEGRA, T. 4/9","BLASCO IBÁÑEZ, VICENTE","{'Historical fiction', 'Jesuits -- Spain -- History -- 19th century -- Fiction', 'Spanish fiction -- 19th century'}",FICTION
+167,65333,HALMA,"PÉREZ GALDÓS, BENITO","{'Christian communities -- Fiction', 'Priests -- Fiction', 'Spanish fiction -- 19th century'}",FICTION
+168,26506,LÁZARO: CASI NOVELA,"PICÓN, JACINTO OCTAVIO",{'Spanish fiction -- 19th century'},FICTION
+169,75613,CUENTOS DE FRAY MOCHO,"ALVAREZ, JOSÉ S. (JOSÉ SIXTO)","{'Argentine fiction -- 19th century', 'Short stories, Argentine'}",FICTION
+170,28927,LA BODEGA,"BLASCO IBÁÑEZ, VICENTE","{'Jerez de la Frontera (Spain) -- History -- Fiction', 'Peasant uprisings -- Spain -- Jerez de la Frontera -- History -- Fiction'}",FICTION
+171,71055,LA SEGUNDA CASACA,"PÉREZ GALDÓS, BENITO","{'Spain -- History -- Ferdinand VII, 1813-1833 -- Fiction'}",FICTION
+172,29731,EL CAPITÁN VENENO: THE HISPANIC SERIES,"ALARCÓN, PEDRO ANTONIO DE",{'Fiction'},FICTION
+173,47287,EL LIBRO DE LAS MIL NOCHES Y UNA NOCHE; T. 1,ANONYMOUS,"{'Arabs -- Folklore', 'Tales -- Arab countries', 'Folklore -- Arab countries', 'Fairy tales', 'Fairy tales -- Arab countries'}",FICTION
+174,39113,LOS HERMANOS PLANTAGENET,"FERNÁNDEZ Y GONZÁLEZ, MANUEL",{'Historical fiction'},FICTION
+175,25320,PATERNIDAD,"THEURIET, ANDRÉ",{'Fiction'},FICTION
+176,70322,AMOR Y LLANTO : $B COLECCIÓN DE LEYENDAS HISTÓRICAS ORIGINALES,"SINUÉS DE MARCO, MARÍA DEL PILAR",{'Spanish fiction -- 19th century'},FICTION
+177,73486,CORAZÓN : $B (DIARIO DE UN NIÑO),"DE AMICIS, EDMONDO","{'Family life -- Italy -- Juvenile fiction', 'Diaries -- Juvenile fiction', 'Italy -- Juvenile fiction'}",FICTION
+178,29920,LA GLORIA DE DON RAMIRO: UNA VIDA EN TIEMPOS DE FELIPE SEGUNDO,"LARRETA, ENRIQUE","{'Spain -- History -- Philip II, 1556-1598 -- Fiction'}",FICTION
+179,31464,LA DE BRINGAS,"PÉREZ GALDÓS, BENITO","{'Women -- Spain -- Fiction', 'Spain -- Social life and customs -- 19th century -- Fiction', 'Spanish fiction'}",FICTION
+180,53798,RANCHOS (COSTUMBRES DEL CAMPO),"VIANA, JAVIER DE","{'Short stories, Uruguayan', 'Uruguayan fiction'}",FICTION
+181,57264,EL DOCTOR CENTENO (TOMO II),"PÉREZ GALDÓS, BENITO",{'Spanish fiction -- 19th century'},FICTION
+182,23236,MARE NOSTRUM,"BLASCO IBÁÑEZ, VICENTE",{'Spanish fiction'},FICTION
+183,45836,"LA ARAÑA NEGRA, T. 8/9","BLASCO IBÁÑEZ, VICENTE","{'Historical fiction', 'Jesuits -- Spain -- History -- 19th century -- Fiction', 'Spanish fiction -- 19th century'}",FICTION
+184,26078,EL DESEO,"SUDERMANN, HERMANN","{'Suicide -- Fiction', 'Love stories, German', 'Sisters -- Fiction'}",FICTION
+185,52682,HISTORIA DE GIL BLAS DE SANTILLANA: NOVELA (VOL 2 DE 3),"LE SAGE, ALAIN RENÉ","{'Blas, Gil (Fictitious character) -- Fiction', 'Adventure and adventurers -- Fiction'}",FICTION
+186,66626,ADÁN Y EVA EN EL PARAÍSO,"QUEIRÓS, EÇA DE","{'Short stories, Portuguese -- Translations into Spanish', 'Eve (Biblical figure) -- Fiction', 'Adam (Biblical figure) -- Fiction'}",FICTION
+187,62691,EL CRITICÓN (TOMO 1 DE 2),"GRACIÁN Y MORALES, BALTASAR","{'Spanish fiction -- Classical period, 1500-1700'}",FICTION
+188,61851,EL CRIMEN Y EL CASTIGO,"DOSTOYEVSKY, FYODOR","{'Detective and mystery stories', 'Saint Petersburg (Russia) -- Fiction', 'Crime -- Psychological aspects -- Fiction', 'Murder -- Fiction', 'Psychological fiction'}",FICTION
+189,29799,LOS ESPECTROS: NOVELAS BREVES,"ANDREYEV, LEONID","{'Fiction', 'Short stories, Russian -- Translations into Spanish'}",FICTION
+190,45945,ANTAÑO I OGAÑO: NOVELAS I CUENTOS DE LA VIDA HISPANO-AMERICANA,"LASTARRIA, JOSÉ VICTORINO",{'Chilean fiction'},FICTION
+191,66591,"LA METAMORFOSIS, O, EL ASNO DE ORO",APULEIUS,"{'Latin fiction -- Translations into Spanish', 'Mythology, Classical -- Fiction', 'Metamorphosis -- Fiction'}",FICTION
+192,31637,LA FE,"PALACIO VALDÉS, ARMANDO",{'Spanish fiction'},FICTION
+193,62627,EL CASO EXTRAÑO DEL DOCTOR JEKYLL,"STEVENSON, ROBERT LOUIS","{'Horror tales', 'Self-experimentation in medicine -- Fiction', 'Multiple personality -- Fiction', 'London (England) -- Fiction', 'Science fiction', 'Physicians -- Fiction', 'Psychological fiction'}",FICTION
+194,66285,SALAMBÓ,"FLAUBERT, GUSTAVE","{'Historical fiction', 'Carthage (Extinct city) -- History -- Fiction'}",FICTION
+195,44584,LOS MONFÍES DE LAS ALPUJARRAS: NOVELA ORIGINAL,"FERNÁNDEZ Y GONZÁLEZ, MANUEL",{'Historical fiction'},FICTION
+196,64439,TROTERAS Y DANZADERAS: NOVELA,"PÉREZ DE AYALA, RAMÓN",{'Spanish fiction -- 20th century'},FICTION
+197,55215,CUANDO LA TIERRA ERA NIÑA,"HAWTHORNE, NATHANIEL","{'Mythology, Greek -- Juvenile literature', 'Mythology, Greek'}",FICTION
+198,54228,EL BUEY SUELTO... CUADROS EDIFICANTES DE LA VIDA DE UN SOLTERÓN,"PEREDA, JOSÉ MARÍA DE","{'Bachelors -- Fiction', 'Spanish fiction -- 19th century'}",FICTION
+199,14318,BELARMINO Y APOLONIO,"PÉREZ DE AYALA, RAMÓN","{'Shoemakers -- Fiction', 'Spain -- Fiction'}",FICTION
+200,51721,DE CARNE Y HUESO; CUENTOS,"ZAMACOIS, EDUARDO","{'Short stories, Spanish', 'Spanish fiction'}",FICTION
+201,37637,LOS MAJOS DE CÁDIZ,"PALACIO VALDÉS, ARMANDO",{'Spanish fiction'},FICTION
+202,68452,LA PIEDRA ANGULAR: NOVELA,"PARDO BAZÁN, EMILIA, CONDESA DE","{'Executions and executioners -- Fiction', 'Nineteenth century -- Fiction', 'Spain -- Social conditions -- 19th century -- Fiction', 'Conduct of life -- Fiction', 'Capital punishment -- Moral and ethical aspects -- Fiction', 'Fathers and sons -- Fiction'}",FICTION
+203,14307,RESEÑA VERIDICA DE LA REVOLUCIÓN FILIPINA,"AGUINALDO, EMILIO","{'Philippines -- History -- Revolution, 1896-1898', 'Philippines -- History -- Philippine American War, 1899-1902'}",HISTORY
+204,40066,"PÁGINAS SEVILLANAS: SUCESOS HISTÓRICOS, PERSONAJES CÉLEBRES, MONUMENTOS NOTABLES, TRADICIONES POPULARES, CUENTOS VIEJOS, LEYENDAS Y CURIOSIDADES.","CHAVES REY, MANUEL","{'Seville (Spain) -- History', 'Seville (Spain) -- Social life and customs'}",HISTORY
+205,50351,HISTORIA DE LAS INDIAS (VOL. 2 DE 5),"CASAS, BARTOLOMÉ DE LAS","{'America -- Discovery and exploration -- Spanish -- Early works to 1800', 'Columbus, Christopher, 1451-1506 -- Early works to 1800', 'Spain -- Colonies -- America -- Early works to 1800', 'Indians, Treatment of -- Latin America -- Early works to 1800'}",HISTORY
+206,18289,DIARIO DE UN VIAGE A LA COSTA DE LA MAR MAGALLANICA,"LOZANO, PEDRO","{'Patagonia (Argentina and Chile) -- Description and travel', 'Argentina -- Discovery and exploration'}",HISTORY
+207,23617,"MEMORIA HISTÓRICA, GEOGRÁFICA, POLÍTICA Y ÉCONÓMICA SOBRE LA PROVINCIA DE MISIONES DE INDIOS GUARANÍS","DOBLAS, GONZALO DE","{'Guarani Indians', 'Paraguay -- History -- To 1811', 'Jesuits -- Paraguay'}",HISTORY
+208,62870,"HISTORIA DE AMÉRICA DESDE SUS TIEMPOS MÁS REMOTOS HASTA NUESTROS DÍAS, TOMO II","ORTEGA RUBIO, JUAN",{'America -- History'},HISTORY
+209,58713,MÉXICO TAL CUAL ES,"FORNARO, CARLO DE","{'Díaz, Porfirio, 1830-1915', 'Mexico -- Politics and government -- 1867-1910'}",HISTORY
+210,48940,LUCRECIA BORJA: ESTUDIO HISTÓRICO,"VILLA-URRUTIA, W. R. DE","{'Italy -- History -- 1492-1559', 'Borgia, Lucrezia, 1480-1519'}",HISTORY
+211,21282,TRADICIONES PERUANAS,"PALMA, RICARDO","{'Legends -- Peru', 'Peru -- History'}",HISTORY
+212,53185,"COLECCIÓN DE DOCUMENTOS INÉDITOS RELATIVOS AL DESCUBRIMIENTO, CONQUISTA Y ORGANIZACIÓN DE LAS ANTIGUAS POSESIONES ESPAÑOLAS DE ULTRAMAR. TOMO 3, DE LAS ISLAS FILIPINAS, II",,"{'Philippines -- Discovery and exploration -- Spanish', 'Philippines -- History -- Sources', 'Spain -- Colonies'}",HISTORY
+213,40420,LA VOZ DE ESPAÑA CONTRA TODOS SUS ENEMIGOS,"AVILÉS, JOSÉ MARÍA","{'Cuban question', 'Spanish-American War, 1898', 'Spain -- Social conditions'}",HISTORY
+214,2367,LOS BOMBARDEOS ATOMICOS DE HIROSHIMA Y NAGASAKI,UNITED STATES. ARMY. CORPS OF ENGINEERS. MANHATTAN DISTRICT,"{'Atomic bomb -- Physiological effect', 'Nagasaki-shi (Japan) -- History -- Bombardment, 1945', 'Hiroshima-shi (Japan) -- History -- Bombardment, 1945', 'Atomic bomb -- Blast effect'}",HISTORY
+215,73089,PREHISTORIA DE PUERTO-RICO,"COLL Y TOSTE, CAYETANO","{'Indians of the West Indies -- Puerto Rico', 'Puerto Rico -- Antiquities'}",HISTORY
+216,56219,I. ORIGEN DE LOS INDIOS DE AMÉRICA. II. ORIGEN Y CIVILIZACIONES DE LOS INDÍGENAS DEL PERÚ.,"PRINCE, CARLOS","{'Indians -- Origin', 'Indians of South America -- Peru', 'Peru -- Antiquities'}",HISTORY
+217,30892,DE LAS ISLAS FILIPINAS,"ALVAREZ Y TEJERO, LUIS PRUDENCIO",{'Philippines -- Description and travel'},HISTORY
+218,64668,EL IMPERIO JESUÍTICO,"LUGONES, LEOPOLDO","{'Indians of South America -- Missions -- Paraguay', 'Jesuits -- Missions -- Paraguay', 'Paraguay -- History -- To 1811', 'Guarani Indians -- Missions'}",HISTORY
+219,57675,"COLECCIÓN DE DOCUMENTOS INÉDITOS RELATIVOS AL DESCUBRIMIENTO, CONQUISTA Y ORGANIZACIÓN DE LAS ANTIGUAS POSESIONES ESPAÑOLAS DE ULTRAMAR. TOMO 7, DE LOS PLEITOS DE COLÓN, I",,"{'Spain -- Colonies', 'Latin America -- History -- Sources', 'America -- Discovery and exploration -- Spanish'}",HISTORY
+220,65024,LOS CONQUISTADORES: EL ORIGEN HERÓICO DE AMÉRICA,"SALAVERRÍA, JOSÉ MARÍA","{'America -- Discovery and exploration', 'Latin America -- History'}",HISTORY
+221,58077,"COLECCIÓN DE DOCUMENTOS INÉDITOS RELATIVOS AL DESCUBRIMIENTO, CONQUISTA Y ORGANIZACIÓN DE LAS ANTIGUAS POSESIONES ESPAÑOLAS DE ULTRAMAR. TOMO 8, DE LOS PLEITOS DE COLÓN, II",,"{'Spain -- Colonies', 'Latin America -- History -- Sources', 'America -- Discovery and exploration -- Spanish'}",HISTORY
+222,70153,"HISTORIA DEL LEVANTAMIENTO, GUERRA Y REVOLUCIÓN DE ESPAÑA (5 DE 5)","TORENO, JOSÉ MARÍA QUEIPO DE LLANO RUIZ DE SARAVIA, CONDE DE","{'Spain -- History -- Napoleonic Conquest, 1808-1813', 'Peninsular War, 1807-1814 -- Campaigns -- Spain'}",HISTORY
+223,54934,ESPAÑA CONTEMPORÁNEA: OBRAS COMPLETAS VOL. XIX,"DARÍO, RUBÉN","{'Spain -- Social life and customs', 'Spain -- Description and travel', 'Spanish literature -- History and criticism'}",HISTORY
+224,61739,LOS EXPLORADORES ESPAÑOLES DEL SIGLO XVI,"LUMMIS, CHARLES FLETCHER","{'New Mexico -- History -- To 1848', 'Peru -- History -- Conquest, 1522-1548', 'America -- Discovery and exploration -- Spanish'}",HISTORY
+225,13458,"DERROTEROS Y VIAGES À LA CIUDAD ENCANTADA, Ó DE LOS CÉSARES.: QUE SE CREIA EXISTIESE EN LA CORDILLERA, AL SUD DE VALDIVIA.",,"{'Ciudad de los Césares (Legendary place)', 'Chile -- Description and travel', 'Argentina -- Description and travel'}",HISTORY
+226,60210,LAS FIESTAS DE SAN JUAN: RESEÑA HISTÓRICA DE LO QUE HAN SIDO Y DE LO QUE SON RELACIÓN VERÍDICA DE LAS QUE SE CELEBRAN EN ESTE AÑO DE 1868,"ASENJO Y ARTEAGA, FEDERICO","{'San Juan (P.R.) -- History', 'San Juan (P.R.) -- Social life and customs', 'Festivals -- Puerto Rico -- San Juan'}",HISTORY
+227,25705,"SUMA Y NARRACION DE LOS INCAS, QUE LOS INDIOS LLAMARON CAPACCUNA, QUE FUERON SEÑORES DE LA CIUDAD DEL CUZCO Y DE TODO LO Á ELLA SUBJETO","BETANZOS, JUAN DE","{'Betanzos, Juan de, -1576', 'Peru -- History -- Conquest, 1522-1548', 'Incas -- History', 'Indians of South America -- Andes Region -- History'}",HISTORY
+228,61831,"CRISTÓBAL COLÓN Y EL DESCUBRIMIENTO DE AMÉRICA, TOMO 1: HISTORIA DE LA GEOGRAFÍA DEL NUEVO CONTINENTE Y DE LOS PROGRESOS DE LA ASTRONOMÍA NÁUTICA EN LOS SIGLOS XV Y XVI","HUMBOLDT, ALEXANDER VON","{'America -- Discovery and exploration -- Spanish', 'Columbus, Christopher, 1451-1506', 'Navigation -- History'}",HISTORY
+229,60971,"COLECCIÓN DE DOCUMENTOS INÉDITOS RELATIVOS AL DESCUBRIMIENTO, CONQUISTA Y ORGANIZACIÓN DE LAS ANTIGUAS POSESIONES ESPAÑOLAS DE ULTRAMAR. TOMO 9, DE LOS DOCUMENTOS LEGISLATIVOS, II",,"{'Spain -- Colonies', 'Latin America -- History -- Sources', 'America -- Discovery and exploration -- Spanish'}",HISTORY
+230,38885,"TRATADO DE PAZ, AMISTAD, COMERCIO Y NAVEGACION ENTRE LA CONFEDERACIÓN ARGENTINA Y LA REPÚBLICA DEL PARAGUAY",ARGENTINA,"{'Argentina -- Foreign relations -- Paraguay -- Sources', 'Paraguay -- Foreign relations -- Argentina -- Sources'}",HISTORY
+231,37747,GUERRA DE RAZAS (NEGROS CONTRA BLANCOS EN CUBA),"CONTE, RAFAEL","{'Race War, Cuba, 1912', 'Black people -- Cuba', 'Cuba -- Race relations'}",HISTORY
+232,66866,HISTORIA DE LA GUERRA DEL PELOPONESO (1 DE 2),THUCYDIDES,"{'Greece -- History -- Peloponnesian War, 431-404 B.C.'}",HISTORY
+233,13479,"DESCRIPCIÓN GEOGRAFICA, HISTÓRICA Y ESTADÍSTICA DE BOLIVIA, TOMO 1.","ORBIGNY, ALCIDE DESSALINES D'","{'Bolivia -- History, Local', 'Bolivia -- Description and travel'}",HISTORY
+234,71275,"LA AMÉRICA, TOMO I","LASTARRIA, JOSÉ VICTORINO","{'America -- Politics and government', 'Europe -- Politics and government', 'Latin America -- History', 'Latin America -- Politics and government'}",HISTORY
+235,13216,"DIARIO HISTÓRICO DE LA REBELION Y GUERRA DE LOS PUEBLOS GUARANIS SITUADOS EN LA COSTA ORIENTAL DEL RIO URUGUAY, DEL AÑO DE 1754","HENIS, TADÉAS XAVIER","{'Seven Reductions, War of the, 1754-1756'}",HISTORY
+236,70219,HISTORIA NATURAL Y MORAL DE LAS INDIAS (VOL. 1 OF 2),"ACOSTA, JOSÉ DE","{'Natural history -- America', 'Indians of South America -- Early works to 1800', 'Acosta, José de, 1540-1600 -- Travel -- America', 'Indians of Mexico -- Early works to 1800', 'America -- Early accounts to 1600', 'America -- Description and travel'}",HISTORY
+237,69411,"HISTORIA DEL LEVANTAMIENTO, GUERRA Y REVOLUCIÓN DE ESPAÑA (3 DE 5)","TORENO, JOSÉ MARÍA QUEIPO DE LLANO RUIZ DE SARAVIA, CONDE DE","{'Spain -- History -- Napoleonic Conquest, 1808-1813', 'Peninsular War, 1807-1814 -- Campaigns -- Spain'}",HISTORY
+238,20099,"HISTORIA DE LA CÉLEBRE REINA DE ESPAÑA DOÑA JUANA, LLAMADA VULGARMENTE, LA LOCA",ANONYMOUS,"{'Juana, la Loca, Queen of Castile, 1479-1555', 'Queens -- Spain -- Castile -- Biography'}",HISTORY
+239,33885,HISTORIA DE LOS JUDÍOS EN ESPAÑA: DESDE LOS TIEMPOS DE SU ESTABLECIMIENTO HASTA PRINCIPIOS DEL PRESENT SIGLO,"CASTRO, ADOLFO DE",{'Jews -- Spain -- History'},HISTORY
+240,62211,NUEVAS INVESTIGACIONES SOBRE EL ORIGEN DEL NOMBRE AMÉRICA,"MARCOU, JULES","{'Vespucci, Amerigo, 1451-1512', 'America -- Names'}",HISTORY
+241,56251,COMPENDIO DE LA HISTORIA GENERAL DE AMÉRICA. TOMO I,"NAVARRO Y LAMARCA, CARLOS","{'America -- History', 'Latin America -- History', 'Indians'}",HISTORY
+242,45250,"LOS INDIOS, SU HISTORIA Y SU CIVILIZACIÓN","BATRES JÁUREGUI, ANTONIO","{'Indians of Central America -- Guatemala', 'Indians'}",HISTORY
+243,69058,LA RAZA: DESCUBRIDORES,"PEREZ, MODESTO","{'Pinzón, Martín Alonso, 1440?-1493', 'Legazpi, Miguel López de, 1510?-1572', 'Magalhães, Fernão de, -1521'}",HISTORY
+244,29078,ESTUDIOS HISTÓRICOS DEL REINADO DE FELIPE II,"FERNÁNDEZ DURO, CESÁREO","{'Spain -- History -- Philip II, 1556-1598', 'Pérez, Antonio, -1611', 'Spain -- Politics and government -- 1556-1598', 'Jerba, Massacre of, 1560'}",HISTORY
+245,57388,"COLECCIÓN DE DOCUMENTOS INÉDITOS RELATIVOS AL DESCUBRIMIENTO, CONQUISTA Y ORGANIZACIÓN DE LAS ANTIGUAS POSESIONES ESPAÑOLAS DE ULTRAMAR. TOMO 6, DE LA ISLA DE CUBA, III",,"{'Spain -- Colonies', 'Latin America -- History -- Sources', 'America -- Discovery and exploration -- Spanish'}",HISTORY
+246,47092,HISTORIA DE LA DECADENCIA DE ESPAÑA,"CÁNOVAS DEL CASTILLO, ANTONIO","{'Spain -- History -- Philip III, 1598-1621', 'Spain -- History -- Philip IV, 1621-1665', 'Degeneration -- History -- 17th century', 'Spain -- History -- Charles II, 1665-1700'}",HISTORY
+247,62450,"HISTORIA DEL PARAGUAY, RÍO DE LA PLATA Y TUCUMÁN","GUEVARA, JOSÉ","{'Tucumán (Argentina : Gobernación)', 'Indians of South America -- Paraguay', 'Argentina -- History -- To 1810', 'Paraguay -- History -- To 1811'}",HISTORY
+248,28967,"DIARIO DE LA EXPEDICION REDUCCIONAL DEL ANO 1780, MANDADA PRACTICAR POR ORDEN DEL VIREY DE BUENOS AIRES","ARIAS, FRANCISCO GAVINO DE","{'Gran Chaco', 'Argentina -- Discovery and exploration', 'Jesuits -- Argentina', 'Gran Chaco -- Bibliography'}",HISTORY
+249,11302,"DIARIO DE LA NAVEGACION EMPREDIDA EN 1781: DESDE EL RIO NEGRO, PARA RECONOCER LA BAHIA DE TODOS LOS SANTOS, LAS ISLAS DEL BUEN SUCESO, Y EL DESAGUE DEL RIO COLORADO","VILLARINO, BASILIO",{'Argentina -- Discovery and exploration'},HISTORY
+250,19496,DIARIO DE UN RECONOCIMIENTO DE LA GUARDIA Y FORTINES,"AZARA, FÉLIX DE","{'Buenos Aires (Argentina : Province) -- Description and travel', 'Argentina -- History -- To 1810'}",HISTORY
+251,72754,LOS NUEVE LIBROS DE LA HISTORIA (2 DE 2),HERODOTUS,"{'History, Ancient', 'Greece -- History -- To 146 B.C.'}",HISTORY
+252,62475,ISLAS FILIPINAS - ADMINISTRACION DE JUSTICIA: MEMORIA DEDICADA Á LA EXPOSICION COLONIAL DE AMSTERDAM,"VILLARRAGUT Y ESTEVAN, CARLOS","{'Philippines -- Politics and government -- 1521-1898', 'Justice, Administration of -- Philippines'}",HISTORY
+253,53421,"DOCUMENTOS PARA LA HISTORIA DEL VIRREINATO DEL RIO DE LA PLATA, TOMO 1",,{'Argentina -- History -- 1776-1810 -- Sources'},HISTORY
+254,72753,LOS NUEVE LIBROS DE LA HISTORIA (1 DE 2),HERODOTUS,"{'History, Ancient', 'Greece -- History -- To 146 B.C.'}",HISTORY
+255,49258,CRÓNICA DE LA CONQUISTA DE GRANADA (1 DE 2),"IRVING, WASHINGTON","{'Granada (Spain : Reino) -- History -- Spanish Conquest, 1476-1492'}",HISTORY
+256,56283,HISTORIA DE LAS INDIAS (VOL. 4 DE 5),"CASAS, BARTOLOMÉ DE LAS","{'America -- Discovery and exploration -- Spanish -- Early works to 1800', 'Columbus, Christopher, 1451-1506 -- Early works to 1800', 'Spain -- Colonies -- America -- Early works to 1800', 'Indians, Treatment of -- Latin America -- Early works to 1800'}",HISTORY
+257,64945,VERDADERA HISTORIA DE LOS SUCESOS DE LA CONQUISTA DE LA NUEVA-ESPAÑA (1 DE 3),"DÍAZ DEL CASTILLO, BERNAL","{'Mexico -- History -- Conquest, 1519-1540'}",HISTORY
+258,49298,HISTORIA DE LAS INDIAS (VOL. 1 DE 5),"CASAS, BARTOLOMÉ DE LAS","{'America -- Discovery and exploration -- Spanish -- Early works to 1800', 'Columbus, Christopher, 1451-1506 -- Early works to 1800', 'Spain -- Colonies -- America -- Early works to 1800', 'Indians, Treatment of -- Latin America -- Early works to 1800'}",HISTORY
+259,39947,"HISTORIA DE VENEZUELA, TOMO I","AGUADO, PEDRO DE, ACTIVE 16TH CENTURY","{'Venezuela -- History -- 1556-1810', 'Venezuela -- History -- To 1556'}",HISTORY
+260,61832,"CRISTÓBAL COLÓN Y EL DESCUBRIMIENTO DE AMÉRICA, TOMO 2: HISTORIA DE LA GEOGRAFÍA DEL NUEVO CONTINENTE Y DE LOS PROGRESOS DE LA ASTRONOMÍA NÁUTICA EN LOS SIGLOS XV Y XVI","HUMBOLDT, ALEXANDER VON","{'America -- Discovery and exploration -- Spanish', 'Columbus, Christopher, 1451-1506', 'Navigation -- History'}",HISTORY
+261,39312,LOS INGENIOS:: COLECCIÓN DE VISTAS DE LOS PRINCIPLES INGENIOS DE AZÚCAR DE LA ISLA DE CUBA,"CANTERO, J. G. (JUSTO GERMÁN)","{'Sugar trade -- Cuba -- History -- 19th century', 'Plantations -- Cuba -- History -- 19th century'}",HISTORY
+262,18723,PROYECTO DE TRASLACION DE LAS FRONTERAS DE BUENOS AIRES AL RIO NEGRO Y COLORADO,"UNDIANO Y GASTELU, SEBASTIAN","{'Cerro y Zamudio, José Santiago', 'Pampas (Argentina)', 'Argentina -- Discovery and exploration', 'Argentina -- Boundaries', 'Colorado River (Mendoza and Neuquén-Buenos Aires, Argentina)', 'Buenos Aires (Argentina : Province) -- Boundaries', 'Mountain passes -- Andes', 'Negro River (Río Negro, Argentina)'}",HISTORY
+263,56452,"COLECCIÓN DE DOCUMENTOS INÉDITOS RELATIVOS AL DESCUBRIMIENTO, CONQUISTA Y ORGANIZACIÓN DE LAS ANTIGUAS POSESIONES ESPAÑOLAS DE ULTRAMAR. TOMO 5, DE LOS DOCUMENTOS LEGISLATIVOS, I",,"{'Spain -- Colonies', 'Latin America -- History -- Sources', 'America -- Discovery and exploration -- Spanish'}",HISTORY
+264,18798,"MEMORIA DIRIGIDA AL SR. MARQUEZ DE LORETO, VIREY Y CAPITAN GENERAL DE LAS PROVINCIAS DEL RIO DE LA PLATA","VIEDMA, FRANCISCO DE","{'Patagonia (Argentina and Chile) -- History', 'Argentina -- History -- 1776-1810'}",HISTORY
+265,25255,"SEGUNDA PARTE DE LA CRÓNICA DEL PERÚ, QUE TRATA DEL SEÑORIO DE LOS INCAS YUPANQUIS Y DE SUS GRANDES HECHOS Y GOBERNACION","CIEZA DE LEÓN, PEDRO DE","{'Peru -- History -- Conquest, 1522-1548', 'Peru -- Description and travel -- Early works to 1800', 'Indians of South America -- Peru -- Social life and customs'}",HISTORY
+266,44918,HOMBRES Y GLORIAS DE AMÉRICA,"PIÑEYRO, ENRIQUE","{""Anghiera, Pietro Martire d', 1457-1526"", 'Bello, Andrés, 1781-1865', 'Motley, John Lothrop, 1814-1877', 'Mitre, Bartolomé, 1821-1906. Historia de San Martín y de la emancipación sudamericana', 'Lincoln, Abraham, 1809-1865', 'Heredia, José María, 1803-1839', 'Vera y Figueroa, Juan Antonio de, conde de la Roca, 1588-1658. Centón epistolario', 'Luz y Caballero, José de la, 1800-1862', 'United States -- Politics and government -- 1861-1865'}",HISTORY
+267,61022,"GUERRA DE GRANADA: HECHA POR EL REY D. FELIPE II, CONTRA LOS MORISCOS DE AQUEL REINO, SUS REBELDES; SEGUIDA DE LA VIDA DEL LAZARILLO DE TORMES, SUS FORTUNAS Y ADVERSIDADES","HURTADO DE MENDOZA, DIEGO","{'Spain -- History -- Philip II, 1556-1598', 'Granada (Spain : Reino) -- History', 'Moriscos'}",HISTORY
+268,56010,LAS TRANSFORMACIONES DE LA SOCIEDAD ARGENTINA Y SUS CONSECUENCIAS INSTITUCIONALES (1853 À 1910),"RIVAROLA, HORACIO CARLOS","{'Argentina -- Social conditions', 'Argentina -- Economic conditions'}",HISTORY
+269,43493,LA EXPERIENCIA ABOLICIONISTA DE PUERTO RICO,SOCIEDAD ABOLICIONISTA ESPAÑOLA,{'Antislavery movements -- Puerto Rico'},HISTORY
+270,56624,"COLECCIÓN DE DOCUMENTOS INÉDITOS RELATIVOS AL DESCUBRIMIENTO, CONQUISTA Y ORGANIZACIÓN DE LAS ANTIGUAS POSESIONES ESPAÑOLAS DE ULTRAMAR. TOMO 4, DE LA ISLA DE CUBA, II",,"{'Spain -- Colonies', 'Latin America -- History -- Sources', 'America -- Discovery and exploration -- Spanish'}",HISTORY
+271,66554,"COLECCIÓN DE DOCUMENTOS INÉDITOS RELATIVOS AL DESCUBRIMIENTO, CONQUISTA Y ORGANIZACIÓN DE LAS ANTIGUAS POSESIONES ESPAÑOLAS DE ULTRAMAR. TOMO 10, DE LOS DOCUMENTOS LEGISLATIVOS, III",,"{'Spain -- Colonies -- Administration -- History -- Sources', 'Spain -- Colonies'}",HISTORY
+272,66867,HISTORIA DE LA GUERRA DEL PELOPONESO (2 DE 2),THUCYDIDES,"{'Greece -- History -- Peloponnesian War, 431-404 B.C.'}",HISTORY
+273,50437,"COLECCIÓN DE DOCUMENTOS INÉDITOS RELATIVOS AL DESCUBRIMIENTO, CONQUISTA Y ORGANIZACIÓN DE LAS ANTIGUAS POSESIONES ESPAÑOLAS DE ULTRAMAR. TOMO 2, DE LAS ISLAS FILIPINAS, I",,"{'Philippines -- Discovery and exploration -- Spanish', 'Philippines -- History -- Sources', 'Spain -- Colonies'}",HISTORY
+274,39948,"HISTORIA DE VENEZUELA, TOMO II","AGUADO, PEDRO DE, ACTIVE 16TH CENTURY","{'Venezuela -- History -- 1556-1810', 'Venezuela -- History -- To 1556'}",HISTORY
+275,53171,HISTORIA DE LAS INDIAS (VOL. 3 DE 5),"CASAS, BARTOLOMÉ DE LAS","{'America -- Discovery and exploration -- Spanish -- Early works to 1800', 'Columbus, Christopher, 1451-1506 -- Early works to 1800', 'Spain -- Colonies -- America -- Early works to 1800', 'Indians, Treatment of -- Latin America -- Early works to 1800'}",HISTORY
+276,42705,LA EMANCIPACION DE LOS ESCLAVOS EN LOS ESTADOS UNIDOS,"LABRA, RAFAEL M. DE (RAFAEL MARÍA)","{'Freed persons', 'Reconstruction (U.S. history, 1865-1877)', 'Enslaved persons -- Emancipation -- United States'}",HISTORY
+277,20852,"DESCRIPCION DEL RIO PARAGUAY, DESDE LA BOCA DEL XAURU HASTA LA CONFLUENCIA DEL PARANA","QUIROGA, JOSÉ",{'Paraguay River'},HISTORY
+278,56051,"COLECCIÓN DE DOCUMENTOS INÉDITOS RELATIVOS AL DESCUBRIMIENTO, CONQUISTA Y ORGANIZACIÓN DE LAS ANTIGUAS POSESIONES ESPAÑOLAS DE ULTRAMAR. TOMO 1, ISLA DE CUBA",,"{'Spain -- Colonies', 'Latin America -- History -- Sources', 'America -- Discovery and exploration -- Spanish'}",HISTORY
+279,63767,UNA EXCURSIÓN A LOS INDIOS RANQUELES - TOMO 2,"MANSILLA, LUCIO V.","{'Ranquel Indians', 'Argentina -- Description and travel'}",HISTORY
+280,24208,"LA NAO SANTA MARÍA: MEMÓRIA DE LA COMISIÓN ARQUEOLÓGICA EJECUTIVA, 1892",SPAIN. COMISIÓN ARQUEOLÓGICA EJECUTIVA,"{'Santa María (Ship : Replica)', 'Sailing ships -- Spain', 'America -- Centennial celebrations, etc.', 'Columbus, Christopher, 1451-1506'}",HISTORY
+281,68978,"HISTORIA DEL LEVANTAMIENTO, GUERRA Y REVOLUCIÓN DE ESPAÑA (1 DE 5)","TORENO, JOSÉ MARÍA QUEIPO DE LLANO RUIZ DE SARAVIA, CONDE DE","{'Spain -- History -- Napoleonic Conquest, 1808-1813', 'Peninsular War, 1807-1814 -- Campaigns -- Spain'}",HISTORY
+282,28542,DESCRIPCIÓN DE LA PATAGONIA Y DE LAS PARTES ADYACENTES DE LA AMÉRICA MERIDIONAL,"FALKNER, THOMAS","{'Patagonia (Argentina and Chile) -- Description and travel', 'Moluche dialect', 'Falkland Islands', 'Indians of South America -- Patagonia (Argentina and Chile)', 'Pampas (Argentina)'}",HISTORY
+283,64946,VERDADERA HISTORIA DE LOS SUCESOS DE LA CONQUISTA DE LA NUEVA-ESPAÑA (2 DE 3),"DÍAZ DEL CASTILLO, BERNAL","{'Mexico -- History -- Conquest, 1519-1540'}",HISTORY
+284,13516,EXPEDICIÓN DE CATALANES Y ARAGONESES AL ORIENTE,"MONCADA, FRANCISCO DE","{'Byzantine Empire -- History -- Andronicus II Palaeologus, 1282-1328', 'Catalan Grand Company', 'Flor, Roger de, -1305'}",HISTORY
+285,19106,RECONOCIMIENTO DEL FUERTE DEL CARMEN DEL RIO NEGRO,"CRAMER, AMBROSIO","{'Carmen de Patagones (Argentina)', 'Negro River (Río Negro, Argentina)'}",HISTORY
+286,61700,"EL TRATADO DE PARÍS: CONFERENCIAS PRONUNCIADAS EN EL CÍRCULO DE LA UNIÓN MERCANTIL EN LOS DÍAS 22, 24 Y 27 DE FEBRERO DE 1904","MONTERO RÍOS, EUGENIO",{'Treaty of Peace between the United States and Spain (1898 December 10)'},HISTORY
+287,36318,CURIOSIDADES ANTIGUAS SEVILLANAS: (SERIE SEGUNDA),"GESTOSO Y PÉREZ, JOSÉ",{'Andalusia (Spain)'},HISTORY
+288,61361,"JUICIO RAZONADO SOBRE LOS ACONTECIMIENTOS DE EUROPA, SITUACION DEL SUMO PONTÍFICE, Y TAMBIEN SOBRE LA VENTAJOSA POSICION EN QUE SE ENCUENTRA LA ESPAÑA, RESPECTO DEL RESTO DE EUROPA","VILLARRAGUT Y AQUIRIANO, ANTONIO","{'Europe -- History -- 1848-1849', 'Spain -- Politics and government', 'Pius IX, Pope, 1792-1878'}",HISTORY
+289,63600,UNA EXCURSIÓN A LOS INDIOS RANQUELES - TOMO 1,"MANSILLA, LUCIO V.","{'Ranquel Indians', 'Argentina -- Description and travel'}",HISTORY
+290,52795,"EL LIBRO ROJO, 1520-1867, TOMO I","RIVA PALACIO, VICENTE","{'Mexico -- History', 'Executions and executioners'}",HISTORY
+291,35905,COSAS NUEVAS Y VIEJAS (APUNTES SEVILLANOS),"CHAVES REY, MANUEL","{'Seville (Spain) -- Biography', 'Seville (Spain) -- History'}",HISTORY
+292,27757,"NUEVO PLAN DE FRONTERAS DE LA PROVINCIA DE BUENOS AIRES, PROYECTADO EN 1816","GARCÍA, PEDRO ANDRÉS","{'Argentina -- Boundaries', 'Buenos Aires (Argentina : Province) -- Boundaries'}",HISTORY
+293,57960,"HISTORIA DE AMÉRICA DESDE SUS TIEMPOS MÁS REMOTOS HASTA NUESTROS DÍAS, TOMO I","ORTEGA RUBIO, JUAN",{'America -- History'},HISTORY
+294,40358,SALTA,"DÁVALOS, JUAN CARLOS",{'Salta (Argentina)'},HISTORY
+295,26028,DESCRIPCION É HISTORIA DEL CASTILLO DE LA ALJAFERÍA: SITO  EXTRAMUROS DE LA CIUDAD DE ZARAGOZA,"NOUGUÉS SECALL, MARIANO","{'Architecture, Islamic -- Spain -- Zaragoza', 'Aljafería (Zaragoza, Spain)', 'Palaces -- Spain -- Zaragoza'}",HISTORY
+296,62559,"DIARIO DEL PILOTO DE LA REAL ARMADA, D. BASILIO VILLARINO, DEL RECONOCIMIENTO, QUE HIZO DEL RÍO NEGRO, EN LA COSTA ORIENTAL DE PATAGONIA, EL AÑO DE 1782","VILLARINO, BASILIO","{'Argentina -- Description and travel', 'Río Negro (Argentina) -- Description and travel'}",HISTORY
+297,70064,ESTUDIOS AMERICANOS (PRIMERA SERIE),"GARCÍA MÉROU, MARTÍN","{'United States -- Politics and government -- 1865-1933', 'United States -- Description and travel'}",HISTORY
+298,40724,"DESCRIPCIÓN COLONIAL, LIBRO SEGUNDO (2/2)","LIZÁRRAGA, REGINALDO DE","{'America -- Early accounts to 1600', 'South America -- Description and travel'}",HISTORY
+299,27167,HISTORIA DE TERUEL,"BLASCO, COSME",{'Teruel (Spain)'},HISTORY
+300,50526,"COMENTARIO DEL CORONEL FRANCISCO VERDUGO, DE LA GUERRA DE FRISIA,: EN XIV AÑOS QUE FUE GOBERNADOR Y CAPITAN GENERAL DE AQUEL ESTADO Y EJERCITO POR EL REY DON FELIPE II, NUESTRO SEÑOR","VERDUGO, FRANCISCO","{""Netherlands -- History -- Eighty Years' War, 1568-1648""}",HISTORY
+301,41789,DIARIO DE LA EXPEDICION DE 1822 A LOS CAMPOS DEL SUD DE BUENOS AIRES: DESDE MORON HASTA LA SIERRA DE LA VENTANA,"GARCÍA, PEDRO ANDRÉS","{'Buenos Aires (Argentina : Province) -- Description and travel', 'Indians of South America -- Argentina', 'Argentina -- Discovery and exploration', 'Argentina -- Description and travel'}",HISTORY
+302,45151,HISTORIA DE LA CONQUISTA DE LA HABANA (1762),"GUITERAS, PEDRO JOSÉ","{'Havana (Cuba) -- History -- Siege, 1762'}",HISTORY
+303,20401,VIAGE AL RIO DE LA PLATA Y PARAGUAY,"SCHMIDEL, ULRICH","{'Indians of South America', 'Mendoza, Pedro de, 1487?-1537', 'America -- Discovery and exploration -- Spanish', 'Argentina -- History -- 1535-1617', 'Paraguay -- History -- To 1811', 'America -- Early accounts to 1600', 'Rio de la Plata (Argentina and Uruguay)'}",HISTORY
+304,53131,HISTORIA DE LAS INDIAS (VOL. 5 DE 5),"CASAS, BARTOLOMÉ DE LAS","{'America -- Discovery and exploration -- Spanish -- Early works to 1800', 'Columbus, Christopher, 1451-1506 -- Early works to 1800', 'Spain -- Colonies -- America -- Early works to 1800', 'Indians, Treatment of -- Latin America -- Early works to 1800'}",HISTORY
+305,28904,CORRESPONDENCIA OFICIAL E INEDITA SOBRE LA DEMARCACION DE LIMITES ENTRE EL PARAGUAY Y EL BRASIL,"AZARA, FÉLIX DE","{'Paraguay -- Boundaries -- Brazil', 'Brazil -- Boundaries -- Paraguay'}",HISTORY
+306,69159,"HISTORIA DEL LEVANTAMIENTO, GUERRA Y REVOLUCIÓN DE ESPAÑA (2 DE 5)","TORENO, JOSÉ MARÍA QUEIPO DE LLANO RUIZ DE SARAVIA, CONDE DE","{'Spain -- History -- Napoleonic Conquest, 1808-1813', 'Peninsular War, 1807-1814 -- Campaigns -- Spain'}",HISTORY
+307,16105,COLECCIÓN DE VIAGES Y EXPEDICIÓNES À LOS CAMPOS DE BUENOS AIRES Y A LAS COSTAS DE PATAGONIA,,"{'Indians of South America -- Argentina', 'Argentina -- Discovery and exploration', 'Patagonia (Argentina and Chile)'}",HISTORY
+308,10228,EL PRESIDENTE DÍAZ AL SEÑOR EDISON,"DÍAZ, PORFIRIO","{'Edison, Thomas A. (Thomas Alva), 1847-1931'}",HISTORY
+309,19643,ACTAS CAPITULARES DESDE EL 21 HASTA EL 25 DE MAYO DE 1810 EN BUENOS AIRES,ANONYMOUS,"{'Argentina -- History -- War of Independence, 1810-1817'}",HISTORY
+310,18157,FUNDACIÓN DE LA CIUDAD DE BUENOS-AIRES,,"{'Buenos Aires (Argentina) -- History', 'Paraguay -- History -- To 1811 -- Sources', 'Garay, Juan de, 1528?-1583', 'Argentina -- History -- 1535-1617 -- Sources', 'America -- Early accounts to 1600'}",HISTORY
+311,71339,ESPAÑA Y LOS ESTADOS UNIDOS DE NORTE AMÉRICA : $B A PROPÓSITO DE LA GUERRA,"ARAGÓN, AGUSTÍN","{'Spanish-American War, 1898 -- Foreign public opinion'}",HISTORY
+312,33267,FACUNDO,"SARMIENTO, DOMINGO FAUSTINO","{'Argentina -- History -- 1817-1860', 'Quiroga, Juan Facundo, 1790-1835', 'Argentina -- Description and travel'}",HISTORY
+313,53405,"EL LIBRO ROJO, 1520-1867, TOMO II","RIVA PALACIO, VICENTE","{'Mexico -- History', 'Executions and executioners'}",HISTORY
+314,52469,LA ANEXIÓN DE PUERTO-RICO A LOS ESTADOS UNIDOS DE AMERICA,"NIEVES, JUAN B.",{'Puerto Rico -- Annexation to the United States'},HISTORY
+315,69660,"HISTORIA DEL LEVANTAMIENTO, GUERRA Y REVOLUCIÓN DE ESPAÑA (4 DE 5)","TORENO, JOSÉ MARÍA QUEIPO DE LLANO RUIZ DE SARAVIA, CONDE DE","{'Spain -- History -- Napoleonic Conquest, 1808-1813', 'Peninsular War, 1807-1814 -- Campaigns -- Spain'}",HISTORY
+316,39579,"DESCRIPCIÓN COLONIAL, LIBRO PRIMERO (1/2)","LIZÁRRAGA, REGINALDO DE","{'America -- Early accounts to 1600', 'South America -- Description and travel'}",HISTORY
+317,15334,MINDANAO: SU HISTORIA Y GEOGRAFÍA,"NIETO AGUILAR, JOSÉ",{'Mindanao Island (Philippines)'},HISTORY
+318,63464,NUESTRA PAMPA; LIBRO DE LECTURA,"MOLINS, W. JAIME (WENCESLAO JAIME)",{'La Pampa (Argentina : Province) -- Description and travel'},HISTORY
+319,66949,"LAS HELÉNICAS; Ó, HISTORIA GRIEGA DESDE EL AÑO 411 HASTA EL 362 ANTES DE JESUCRISTO",XENOPHON,{'Greece -- History -- To 146 B.C.'},HISTORY
+320,10293,"RELACIÓN HISTORICA DE LOS SUCESOS DE LA REBELIÓN DE JOSÉ GABRIEL TUPAC-AMARU EN LAS PROVINCIAS DEL PERU, EL AÑO DE 1780",ANONYMOUS,"{'Peru -- History -- Insurrection of Tupac Amaru, 1780-1781'}",HISTORY
+321,45183,"DIARIO DE UN VIAGE A SALINAS GRANDES, EN LOS CAMPOS DEL SUD DE BUENOS AIRES","GARCÍA, PEDRO ANDRÉS",{'Buenos Aires (Argentina : Province) -- Description and travel'},HISTORY
+322,49259,CRÓNICA DE LA CONQUISTA DE GRANADA (2 DE 2),"IRVING, WASHINGTON","{'Granada (Spain : Reino) -- History -- Spanish Conquest, 1476-1492'}",HISTORY
+323,67524,"HISTORIA DE LA CONQUISTA DE MEXICO, VOLUME 2 (OF 3): POBLACION Y PROGRESOS DE LA AMERICA SEPTENTRIONAL, CONOCIDA POR EL NOMBRE DE NUEVA ESPAÑA","SOLÍS, ANTONIO DE","{'Mexico -- History -- Conquest, 1519-1540'}",HISTORY
+324,50430,HISTORIA NATURAL Y MORAL DE LAS INDIAS (VOL. 2 OF 2),"ACOSTA, JOSÉ DE","{'Natural history -- America', 'Indians of South America -- Early works to 1800', 'Acosta, José de, 1540-1600 -- Travel -- America', 'Indians of Mexico -- Early works to 1800', 'America -- Early accounts to 1600', 'America -- Description and travel'}",HISTORY
+325,42323,LA GUERRA INJUSTA; CARTAS DE UN ESPAÑOL,"PALACIO VALDÉS, ARMANDO","{'World War, 1914-1918 -- France'}",HISTORY
+326,64947,VERDADERA HISTORIA DE LOS SUCESOS DE LA CONQUISTA DE LA NUEVA-ESPAÑA (3 DE 3),"DÍAZ DEL CASTILLO, BERNAL","{'Mexico -- History -- Conquest, 1519-1540'}",HISTORY
+327,71533,ESPAÑA Y AMÉRICA : $B ESTUDIOS HISTÓRICOS Y LITERARIOS,"SÁNCHEZ MOGUEL, ANTONIO","{'Spanish literature', 'Latin America -- History', 'Columbus, Christopher, 1451-1506'}",HISTORY
+328,53930,"PARISIANA: OBRAS COMPLETAS, VOL. V","DARÍO, RUBÉN",{'Nicaraguan literature'},LITERARY COLLECTIONS
+329,47184,ANTOLOGÍA PORTORRIQUEÑA: PROSA Y VERSO,"FERNÁNDEZ JUNCOS, MANUEL","{'Authors, Puerto Rican', 'Spanish language -- Readers', 'Puerto Rican literature'}",LITERARY COLLECTIONS
+330,39444,PÁGINAS ESCOGIDAS,"PALACIO VALDÉS, ARMANDO",{'Spanish fiction'},LITERARY COLLECTIONS
+331,43861,GRANOS DE ORO: PENSAMIENTOS SELECCIONADOS EN LAS OBRAS DE JOSÉ MARTÍ,"MARTÍ, JOSÉ","{'Martí, José, 1853-1895 -- Selections'}",LITERARY COLLECTIONS
+332,56770,"DE SOBREMESA; CRÓNICAS, TERCERA PARTE (DE 5)","BENAVENTE, JACINTO",{'Spanish fiction -- 20th century'},LITERARY COLLECTIONS
+333,27034,ENTREVISTAS (1998-2001),"LEBERT, MARIE","{'Internet', 'World Wide Web'}",LITERARY COLLECTIONS
+334,31541,FÍGARO (ARTÍCULOS SELECTOS),"LARRA, MARIANO JOSÉ DE",{'Spanish essays'},LITERARY COLLECTIONS
+335,51029,LETRAS: OBRAS COMPLETAS VOL. VIII,"DARÍO, RUBÉN",{'Literature'},LITERARY COLLECTIONS
+336,63101,NUEVAS CARTAS AMERICANAS,"VALERA, JUAN","{'South America -- Intellectual life', 'Spanish American literature -- History and criticism', 'Positivism'}",LITERARY COLLECTIONS
+337,58484,"DE SOBREMESA; CRÓNICAS, CUARTA PARTE (DE 5)","BENAVENTE, JACINTO",{'Spanish fiction -- 20th century'},LITERARY COLLECTIONS
+338,53837,ANTOLOGÍA DE PROSISTAS CASTELLANOS,,{'Spanish prose literature'},LITERARY COLLECTIONS
+339,67481,LOS VALORES LITERARIOS,AZORÍN,{'Spanish literature -- History and criticism'},LITERARY COLLECTIONS
+340,54112,TODO AL VUELO: OBRAS COMPLETAS VOL. XVIII,"DARÍO, RUBÉN",{'Nicaraguan literature'},LITERARY COLLECTIONS
+341,55616,PROSA DISPERSA: OBRAS COMPLETAS VOL. XX,"DARÍO, RUBÉN",{'Nicaraguan literature'},LITERARY COLLECTIONS
+342,53552,OBRAS ESCOGIDAS,"BÉCQUER, GUSTAVO ADOLFO",{'Spanish literature -- 19th century'},LITERARY COLLECTIONS
+343,51604,OPINIONES: OBRAS COMPLETAS VOL. X,"DARÍO, RUBÉN",{'Nicaraguan literature'},LITERARY COLLECTIONS
+344,50365,LOS RAROS: OBRAS COMPLETAS VOL. VI,"DARÍO, RUBÉN","{'Symbolism (Literary movement)', 'Literature, Modern -- 19th century -- History and criticism'}",LITERARY COLLECTIONS
+345,61244,COSAS QUE FUERON: CUADROS DE COSTUMBRES,"ALARCÓN, PEDRO ANTONIO DE","{'Short stories, Spanish', 'Madrid (Spain) -- Social life and customs -- Fiction'}",LITERARY COLLECTIONS
+346,71131,EL GÍBARO : $B CUADRO DE COSTUMBRES DE LA ISLA DE PUERTO RICO,"ALONSO, MANUEL A. (MANUEL ANTONIO)",{'Puerto Rico -- Social life and customs'},LITERARY COLLECTIONS
+347,35882,A VUELA PLUMA: COLECCIÓN DE ARTÍCULOS LITERARIOS Y POLÍTICOS,"VALERA, JUAN","{'Spanish literature', 'Spain -- Politics and government', 'Spain', 'Political science', 'Literature'}",LITERARY COLLECTIONS
+348,19543,MEMORIAS DE UN VIGILANTE,"ALVAREZ, JOSÉ S. (JOSÉ SIXTO)","{'Crime -- Argentina -- Buenos Aires', 'Criminals -- Argentina -- Buenos Aires'}",LITERARY COLLECTIONS
+349,43401,A FLOR DE PIEL: FRASES,"SÁNCHEZ GALARRAGA, GUSTAVO","{'Philosophy', 'Maxims'}",LITERARY COLLECTIONS
+350,68444,"OBRAS COMPLETAS DE FÍGARO, TOMO 2","LARRA, MARIANO JOSÉ DE",{'Spanish literature -- 19th century'},LITERARY COLLECTIONS
+351,62984,CARTAS AMERICANAS. PRIMERA SERIE,"VALERA, JUAN","{'Spanish American literature -- History and criticism', 'Spanish literature -- History and criticism'}",LITERARY COLLECTIONS
+352,67676,"OBRAS COMPLETAS DE FÍGARO, TOMO 1","LARRA, MARIANO JOSÉ DE",{'Spanish literature -- 19th century'},LITERARY COLLECTIONS
+353,58375,LA CARAVANA PASA: OBRAS COMPLETAS VOL. I,"DARÍO, RUBÉN",{'Nicaraguan literature'},LITERARY COLLECTIONS
+354,49437,PÁGINAS ESCOGIDAS,"MACHADO, ANTONIO",{'Spanish poetry'},LITERARY COLLECTIONS
+355,54283,"DE SOBREMESA; CRÓNICAS, PRIMERA PARTE (DE 5)","BENAVENTE, JACINTO",{'Spanish fiction -- 20th century'},LITERARY COLLECTIONS
+356,74087,"OBRAS SELECTAS DE LA CELEBRE MONJA DE MEJICO, SOR JUANA INES DE LA CRUZ : $B PRECEDIDAS DE SU BIOGRAFIA Y JUICIO CRÍTICO SOBRE TODAS SUS PRODUCCIONES","JUANA INÉS DE LA CRUZ, SISTER",{'Mexican literature -- 17th century'},LITERARY COLLECTIONS
+357,24031,"EL TEATRO POR DENTRO: AUTORES, COMEDIANTES, ESCENAS DE LA VIDA DE BASTIDORES, ETC.","ZAMACOIS, EDUARDO","{'Dramatists', 'Theater -- History', 'Actresses'}",LITERARY COLLECTIONS
+358,55038,"DE SOBREMESA; CRÓNICAS, SEGUNDA PARTE (DE 5)","BENAVENTE, JACINTO",{'Spanish fiction -- 20th century'},LITERARY COLLECTIONS
+359,58545,"DE SOBREMESA; CRÓNICAS, QUINTA PARTE (DE 5)","BENAVENTE, JACINTO",{'Spanish fiction -- 20th century'},LITERARY COLLECTIONS
+360,51627,CUENTOS Y CRÓNICAS: OBRAS COMPLETAS VOL. XIV,"DARÍO, RUBÉN",{'Nicaraguan literature'},LITERARY COLLECTIONS
+361,34565,CRÓNICAS DE MARIANELA,"PALMA, ANGÉLICA","{'Fiction', 'Short stories'}",LITERARY COLLECTIONS
+362,73255,"HISTORIA DE LA LENGUA Y LITERATURA CASTELLANA, TOMO 1 : $B DESDE LOS ORÍGENES HASTA CARLOS V","CEJADOR Y FRAUCA, JULIO","{'Basque language', 'Spanish American literature -- History and criticism', 'Spanish literature -- History and criticism', 'Spanish language -- History', 'Spanish American literature -- Bibliography'}",LITERARY CRITICISM
+363,73257,"HISTORIA DE LA LENGUA Y LITERATURA CASTELLANA, TOMO 2 : $B ÉPOCA DE CARLOS V","CEJADOR Y FRAUCA, JULIO","{'Basque language', 'Spanish American literature -- History and criticism', 'Spanish literature -- History and criticism', 'Spanish language -- History', 'Spanish American literature -- Bibliography'}",LITERARY CRITICISM
+364,58194,TIRSO DE MOLINA,"MOLINA, TIRSO DE","{'Spanish drama -- Classical period, 1500-1700'}",LITERARY CRITICISM
+365,37095,"HISTORIA DE LA LITERATURA Y DEL ARTE DRAMÁTICO EN ESPAÑA, TOMO V","SCHACK, ADOLF FRIEDRICH VON",{'Spanish drama -- History and criticism'},LITERARY CRITICISM
+366,37067,"HISTORIA DE LA LITERATURA Y DEL ARTE DRAMÁTICO EN ESPAÑA, TOMO IV","SCHACK, ADOLF FRIEDRICH VON",{'Spanish drama -- History and criticism'},LITERARY CRITICISM
+367,33690,"HISTORIA DE LA LITERATURA Y DEL ARTE DRAMÁTICO EN ESPAÑA, TOMO I","SCHACK, ADOLF FRIEDRICH VON",{'Spanish drama -- History and criticism'},LITERARY CRITICISM
+368,65988,AUSÍAS MARCH Y SU ÉPOCA,"RUBIÓ Y ORS, JOAQUÍN","{'March, Ausiàs, 1397?-1459 -- Criticism and interpretation'}",LITERARY CRITICISM
+369,63525,"EL POEMA DE LA PAMPA: ""MARTÍN FIERRO"" Y EL CRIOLLISMO ESPAÑOL","SALAVERRÍA, JOSÉ MARÍA","{'Hernández, José, 1834-1886. Martín Fierro'}",LITERARY CRITICISM
+370,27048,LAS TECNOLOGÍAS Y EL LIBRO PARA TODOS,"LEBERT, MARIE","{'Electronic books', 'Internet', 'World Wide Web'}",LITERARY CRITICISM
+371,75472,VIDA DE DON QUIJOTE Y SANCHO,"UNAMUNO, MIGUEL DE","{'Cervantes Saavedra, Miguel de, 1547-1616. Don Quixote'}",LITERARY CRITICISM
+372,71733,ORÍGENES DE LA NOVELA  - TOMO II,"MENÉNDEZ Y PELAYO, MARCELINO",{'Spanish fiction -- History and criticism'},LITERARY CRITICISM
+373,42376,SEMBLANZAS LITERARIAS,"PALACIO VALDÉS, ARMANDO","{'Spanish literature', 'Authors, Spanish'}",LITERARY CRITICISM
+374,25988,"HISTORIA DE LA LITERATURA Y DEL ARTE DRAMÁTICO EN ESPAÑA, TOMO II","SCHACK, ADOLF FRIEDRICH VON",{'Spanish drama -- History and criticism'},LITERARY CRITICISM
+375,36253,"HISTORIA DE LA LITERATURA Y DEL ARTE DRAMÁTICO EN ESPAÑA, TOMO III","SCHACK, ADOLF FRIEDRICH VON",{'Spanish drama -- History and criticism'},LITERARY CRITICISM
+376,70058,"ORÍGENES DE LA NOVELA,  TOMO I","MENÉNDEZ Y PELAYO, MARCELINO",{'Spanish fiction -- History and criticism'},LITERARY CRITICISM
+377,38814,LA NOVELA DE UN NOVELISTA,"PALACIO VALDÉS, ARMANDO",{'Spanish fiction'},LITERARY CRITICISM
+378,36805,SPANISH TALES FOR BEGINNERS,,{'Spanish language -- Readers'},OTHER
+379,44120,"LA CAZA DE LA PERDIZ CON ESCOPETA, AL VUELO Y CON PERRO DE MUESTRA","SAURÍ, MANUEL",{'Partridge shooting -- Spain'},OTHER
+380,36558,RATÓN PÉREZ: CUENTO INFANTIL,"COLOMA, LUIS","{'Tooth Fairy (Legendary character) -- Juvenile fiction', 'Mice -- Juvenile fiction'}",OTHER
+381,10255,LA PALOMA,,{'Songs -- Instrumental settings'},OTHER
+382,22065,AN ELEMENTARY SPANISH READER,"HARRISON, EARL STANLEY",{'Spanish language -- Readers'},OTHER
+383,15633,ETIMOLOGÍA DE LOS NOMBRES DE RAZAS DE FILIPINAS,"PARDO DE TAVERA, T. H. (TRINIDAD HERMENEGILDO)",{'Ethnology -- Philippines'},OTHER
+384,52502,LA IGUALDAD SOCIAL Y POLÍTICA Y SUS RELACIONES CON LA LIBERTAD,"ARENAL DE GARCÍA CARRASCO, CONCEPCIÓN",{'Equality'},OTHER
+385,31633,EL PROYECTO GUTENBERG (1971-2009),"LEBERT, MARIE",{'Project Gutenberg'},OTHER
+386,41842,"EL ACEITE DE OLIVAS : $B SU EXTRACCIÓN, CLARIFICACIÓN, DEPURACIÓN, CONSERVACIÓN Y ENVASES PARA SU EXPORTACIÓN, DECOLORACIÓN Y MEDIOS PROPUESTOS PARA QUITARLE LA RANCIDEZ","BIZZARRI, ALESSANDRO",{'Olive oil'},OTHER
+387,40595,"COCINA CÓMICA: RECETAS DE GUISOS Y POSTRES, POESÍAS CULINARIAS, Y OTROS EXCESOS","PÉREZ ZÚÑIGA, JUAN",{'Cooking -- Humor'},OTHER
+388,61465,APUNTES PARA UNA GRAMÁTICA VALENCIANA POPULAR,"NEBOT PÉREZ, JOSÉ","{'Catalan language -- Grammar', 'Catalan language -- Dialects -- Spain -- Valencia (Region)'}",OTHER
+389,63424,CUENTOS POPULARES EN CHILE,"LAVAL, RAMÓN A. (RAMÓN ARMINIO)","{'Folklore -- Chile', 'Tales -- Chile'}",OTHER
+390,45770,COCINA MODERNA,ANONYMOUS,{'Cooking'},OTHER
+391,63030,"TAUROMAQUIA COMPLETA, Ó SEA, EL ARTE DE TOREAR EN PLAZA","MONTES, FRANCISCO",{'Bullfights -- Spain'},OTHER
+392,43950,CINCUENTA Y CUATRO CANCIONES ESPAÑOLAS DEL SIGLO XVI: CANCIONERO DE UPPSALA,,"{'Folk songs, Spanish', 'Villancicos (Music)', 'Ballads, Spanish'}",OTHER
+393,53462,"DISCURSOS SOBRE EL ARTE DEL DANÇADO: Y SUS EXELENCIAS Y PRIMER ORIGEN, REPROBANDO LAS ACCIONES DESHONESTAS","ESQUIVEL NAVARRO, JUAN DE, ACTIVE 17TH CENTURY",{'Dance -- Early works to 1800'},OTHER
+394,66373,REGLAS Y CONSEJOS SOBRE INVESTIGACIÓN CIENTÍFICA: (LOS TÓNICOS DE LA VOLUNTAD),"RAMÓN Y CAJAL, SANTIAGO","{'Scientists', 'Research'}",OTHER
+395,15421,CONTRIBUCION PARA EL ESTUDIO DE LOS ANTIGUOS ALFABETOS FILIPINOS,"PARDO DE TAVERA, T. H. (TRINIDAD HERMENEGILDO)",{'Philippine languages -- Alphabets'},OTHER
+396,30716,EL INTERNET Y LOS IDIOMAS [ALREDEDOR DEL AÑO 2000],"LEBERT, MARIE",{'World Wide Web'},OTHER
+397,26845,INCERTIDUMBRE,"LECOMTE DU NOÜY, HERMINE OUDINOT",{'French fiction -- Translations into Spanish'},OTHER
+398,57550,EL FOLK-LORE FILIPINO (TOMO I),"REYES Y FLORENTINO, ISABELO DE LOS","{'Folklore -- Philippines', 'Philippines -- Social life and customs'}",OTHER
+399,41337,CATÁLOGO MONUMENTAL DE ESPAÑA; PROVINCIA DE ÁLAVA: INVENTARIO GENERAL DE LOS MONUMENTOS HISTÓRICOS Y ARTÍSTICOS DE AL NACIÓN.,"CASTRO, CRISTÓBAL DE","{'Art, Spanish -- Spain -- Alava (Province) -- Catalogs', 'Monuments -- Spain -- Alava (Province) -- Catalogs'}",OTHER
+400,33461,BOOKNOLOGÍA: EL LIBRO DIGITAL (1971-2010),"LEBERT, MARIE",{'Electronic books'},OTHER
+401,68220,COMPENDIO DEL DERECHO PÚBLICO ROMANO,"MOMMSEN, THEODOR",{'Constitutional law -- Rome'},OTHER
+402,49359,"EL CAMPESINO PUERTORRIQUEÑO: SUS CONDICIONES FÍSICAS, INTELECTUALES Y MORALES, CAUSAS QUE LA DETERMINAN Y MEDIOS PARA MEJORARLAS","VALLE ATILES, FRANCISCO DEL","{'Puerto Rico -- Economic conditions', 'Ethnology -- Puerto Rico', 'Peasants -- Puerto Rico'}",OTHER
+403,26947,LA TRANSFORMACIÓN DE LAS RAZAS EN AMÉRICA,"ALVAREZ, AGUSTÍN","{'Latin America -- Civilization', 'America -- Civilization'}",OTHER
+404,54064,LA CRUZ EN AMÉRICA (ARQUEOLOGÍA ARGENTINA),"QUIROGA, ADÁN","{'Indians -- Religion', 'Crosses -- America', 'Diaguita Indians', 'America -- Antiquities', 'Indian mythology', 'Indian art'}",OTHER
+405,26284,EL MAR,"MICHELET, JULES","{'Ocean', 'Natural history'}",OTHER
+406,46246,"HISTORIA GENERAL DEL DERECHO ESPAÑOL, TOMO I","HINOJOSA, EDUARDO DE",{'Law -- Spain -- History'},OTHER
+407,30052,ESPLORACIÓN ARQUEOLÓGICA DE LA PROVINCIA DE CATAMARCA,"MORENO, FRANCISCO PASCASIO",{'Catamarca (Argentina : Province) -- Antiquities'},OTHER
+408,24250,LECTURAS FÁCILES CON EJERCICIOS,"WILKINS, LAWRENCE A. (LAWRENCE AUGUSTUS)","{'Spanish language -- Readers', 'Spanish language -- Composition and exercises'}",OTHER
+409,55440,"ESTUDIO DESCRIPTIVO DE LOS MONUMENTOS ÁRABES DE GRANADA, SEVILLA Y CÓRDOBA: Ó SEA LA ALHAMBRA, EL ALCÁZAR Y LA GRAN MEZQUITA DE OCCIDENTE","CONTRERAS, RAFAEL","{'Catedral (Córdoba, Spain)', 'Islamic art -- Spain', 'Alhambra (Granada, Spain)', 'Alcázar (Seville, Spain)', 'Islamic architecture -- Spain'}",OTHER
+410,11663,EL ARROYO,"RECLUS, ELISÉE",{'Rivers'},OTHER
+411,38836,CATALOGO DE LOS OBJETOS ETNOLOGICOS Y ARQUEOLOGICOS EXHIBIDOS POR LA EXPEDICIÓN HEMENWAY,"FEWKES, JESSE WALTER","{'Arizona -- Antiquities', 'New Mexico -- Antiquities', 'New Mexico -- Bibliography', 'Hopi Indians', 'Indians -- Bibliography', 'Mexico -- Bibliography', 'Hemenway collection'}",OTHER
+412,57505,EL TRATADO DE LA PINTURA,"LEONARDO, DA VINCI","{'Leonardo, da Vinci, 1452-1519', 'Alberti, Leon Battista, 1404-1472', 'Painting -- Early works to 1800'}",OTHER
+413,38124,SPANISH COMPOSITION,"BROOMHALL, EDITH J. (EDITH JANE)","{'Spanish language -- Grammar', 'Spanish language -- Composition and exercises'}",OTHER
+414,6528,SAGRADAS ESCRITURAS VERSION ANTIGUA,"STENDAL, RUSSELL",{'Bible'},OTHER
+415,33406,HEATH'S MODERN LANGUAGE SERIES: SPANISH SHORT STORIES,,"{'Spanish language -- Readers', 'Spanish language -- Textbooks for foreign speakers -- English'}",OTHER
+416,68787,CABOS SUELTOS: LITERATURA Y LINGÜÍSTICA,"CEJADOR Y FRAUCA, JULIO","{'Spanish language', 'Chocano, José Santos, 1875-1934', 'Spanish literature -- History and criticism'}",OTHER
+417,42023,"LA WEB, UNA ENCICLOPEDIA MULTILINGÜE","LEBERT, MARIE",{'World Wide Web'},OTHER
+418,43276,"ALMACEN DE RECETAS ESCOGIDAS Y PROBADAS: Ó SEA TRATADO DE JARABES, AGUAS DESTILADAS, LICORES POR DESTILACIÓN, VINOS POR IMITACIÓN Y HELADOS",ANONYMOUS,"{'Liquors', 'Formulas, recipes, etc.', 'Syrups', 'Ice cream, ices, etc.'}",OTHER
+419,11598,LA MONTAÑA,"RECLUS, ELISÉE",{'Mountains'},OTHER
+420,49914,CANCIONERO DE LOPE DE STÚÑIGA: CÓDICE DEL SIGLO XV.,,{'Spanish poetry -- To 1500'},OTHER
+421,34091,DEL LIBRO IMPRESO AL LIBRO DIGITAL,"LEBERT, MARIE",{'Electronic books'},OTHER
+422,20029,"LAS FÁBULAS DE ESOPO, VOL. 02","TOWNSEND, GEORGE FYLER","{'Fables, Greek -- Translations into Spanish'}",OTHER
+423,58425,"MITOS, SUPERSTICIONES Y SUPERVIVENCIAS POPULARES DE BOLIVIA","PAREDES, M. RIGOBERTO (MANUEL RIGOBERTO)","{'Indians of South America -- Bolivia -- Social life and customs', 'Indian mythology -- Bolivia', 'Folklore -- Bolivia'}",OTHER
+424,37382,LOS CURSOS,"VEBER, PIERRE","{'One-act plays', 'Drama'}",OTHER
+425,43400,MÚSICA Y MÚSICOS PORTORRIQUEÑOS,"CALLEJO FERRER, FERNANDO","{'Musicians -- Puerto Rico', 'Music -- Puerto Rico -- History and criticism'}",OTHER
+426,20930,COSMOGRAFÍA,"GUILLEMIN, AMÉDÉE","{'Stars', 'Solar system'}",OTHER
+427,19898,LA EDAD DE ORO: PUBLICACIÓN MENSUAL DE RECREO E INSTRUCCIÓN DEDICADA A LOS NIÑOS DE AMÉRICA.,"MARTÍ, JOSÉ","{""Children's literature, Cuban -- Periodicals""}",OTHER
+428,60117,LOS DESASTRES DE LA GUERRA:: COLECCIÓN DE OCHENTA LÁMINAS INVENTADAS Y GRABADAS AL AGUA FUERTE,"GOYA, FRANCISCO","{'Spain -- History -- Napoleonic Conquest, 1808-1813 -- Pictorial works'}",OTHER
+429,61594,TRATADO DE ORTOGRAFÍA VALENCIANA CLÁSICA,"NEBOT PÉREZ, JOSÉ","{'Catalan language -- Orthography and spelling', 'Catalan language -- Dialects -- Spain -- Valencia (Region)'}",OTHER
+430,69948,DICCIONARIO ESPAÑOL-BISAYA : $B SEGUNDA EDICIÓN,"FÉLIX DE LA ENCARNACIÓN, JUAN","{'Spanish language -- Dictionaries -- Bisayan languages', 'Bisayan languages -- Dictionaries -- Spanish'}",OTHER
+431,61917,EDUCACIÓN COMÚN EN EL ESTADO DE BUENOS-AIRES,"SARMIENTO, DOMINGO FAUSTINO",{'Agricultural education -- Argentina'},OTHER
+432,39446,EL DERECHO INTERNACIONAL AMERICANO; ESTUDIO DOCTRINAL Y CRÍTICO,"STOERK, FELIX","{'Spanish-American War, 1898', 'Monroe doctrine'}",OTHER
+433,65034,VELÁZQUEZ EN EL MUSEO DEL PRADO,"BERUETE Y MORET, A. DE (AURELIANO)","{'Velázquez, Diego, 1599-1660'}",OTHER
+434,29803,UNA HISTORIA DEL EBOOK,"LEBERT, MARIE",{'Electronic books'},OTHER
+435,21144,"LAS FÁBULAS DE ESOPO, VOL. 03","TOWNSEND, GEORGE FYLER","{'Fables, Greek -- Translations into Spanish'}",OTHER
+436,47052,UN LIBRO PARA LAS DAMAS: ESTUDIOS ACERCA DE LA EDUCACIÓN DE LA MUJER,"SINUÉS DE MARCO, MARÍA DEL PILAR","{'Family life education', 'Women -- Education'}",OTHER
+437,36986,EL EBOOK TIENE 40 AÑOS (1971-2011),"LEBERT, MARIE",{'Electronic books'},OTHER
+438,20159,CATÁLOGO INSTRUCTIVO DE LAS COLECCIONES MINERALÓGICAS,"HERMITTE, ENRIQUE MARTÍN",{'Minerals -- Catalogs and collections'},OTHER
+439,52837,LIBRO INTITULADO EL CORTESANO. LIBRO DE MOTES DE DAMAS Y CABALLEROS,"MILÁN, LUIS","{'Courtesy -- Early works to 1800', 'Courts and courtiers -- Early works to 1800'}",OTHER
+440,21143,"LAS FÁBULAS DE ESOPO, VOL. 01","TOWNSEND, GEORGE FYLER","{'Fables, Greek -- Translations into Spanish'}",OTHER
+441,10261,LA BELLA CUBANO: HABENERA,,"{'Habaneras', 'Violin and piano music'}",OTHER
+442,31066,EL LEGADO DEL IGNORANTISMO: CONFERENCIA DADA EL 23 DE ABRIL DE 1920 ANTE LA ASAMBLEA DE MAESTROS EN BAGUIO,"PARDO DE TAVERA, T. H. (TRINIDAD HERMENEGILDO)","{'Church and education -- Philippines', 'Education -- Philippines'}",OTHER
+443,33809,"TRATADO METÓDICO Y PRÁCTICO DE MATERIA MÉDICA Y DE TERAPÉUTICA, TOMO PRIMERO","ESPANET, ALEXIS",{'Homeopathy -- Materia medica and therapeutics'},OTHER
+444,10262,QUE PARTES EL ALMA: RUMBA SON,,"{'Folk songs, Spanish -- Cuba'}",OTHER
+445,60510,DEBERES DE BUENA SOCIEDAD,"FABRA, CAMILO",{'Etiquette -- Spain -- 19th century'},OTHER
+446,29576,"TRATADO METÓDICO Y PRÁCTICO DE MATERIA MÉDICA Y DE TERAPÉUTICA, TOMO SEGUNDO","ESPANET, ALEXIS",{'Homeopathy -- Materia medica and therapeutics'},OTHER
+447,42642,"COCINA DEL TIEMPO, Ó ARTE DE PREPARAR SABROSOS Y EXQUISITOS PLATOS PROPIOS DE CADA ESTACIÓN","RUIZ CONTRERAS, LUIS","{'Seasonal cooking', 'Cookbooks'}",OTHER
+448,8870,"LA MEJOR COCINERA, RECETAS DE COCINA",CALLEJA (PSEUDONYM),{'Cooking'},OTHER
+449,15757,CONSIDERACIONES SOBRE EL ORIGEN DEL NOMBRE DE LOS NÚMEROS EN TAGALOG,"PARDO DE TAVERA, T. H. (TRINIDAD HERMENEGILDO)",{'Tagalog language -- Numerals'},OTHER
+450,62711,NATURALEZA DE LAS COSAS: VERSIÓN EN PROSA DEL POEMA «DE RERUM NATURA»,,"{'Didactic poetry, Latin -- Adaptations', 'Philosophy, Ancient'}",PHILOSOPHY
+451,22899,ARIEL,"RODÓ, JOSÉ ENRIQUE","{'Social ethics', 'Democracy'}",PHILOSOPHY
+452,30535,EL ORIGEN DEL PENSAMIENTO,"PALACIO VALDÉS, ARMANDO",{'Spanish fiction'},PHILOSOPHY
+453,13608,"FILOSOFÍA FUNDAMENTAL, TOMO I","BALMES, JAIME LUCIANO",{'Philosophy'},PHILOSOPHY
+454,60884,EL QUIJOTE APÓCRIFO,"FERNÁNDEZ DE AVELLANEDA, ALONSO","{'Quixote, Don (Fictitious character) -- Fiction'}",PHILOSOPHY
+455,28929,EL CRITERIO,"BALMES, JAIME LUCIANO",{'Philosophy'},PHILOSOPHY
+456,64188,LA SIMULACIÓN EN LA LUCHA POR LA VIDA,"INGENIEROS, JOSÉ","{'Personality disorders', 'Malingering', 'Psychology, Comparative'}",PHILOSOPHY
+457,17974,"FILOSOFÍA FUNDAMENTAL, TOMO III","BALMES, JAIME LUCIANO",{'Philosophy'},PHILOSOPHY
+458,65937,QUE NADA SE SABE,"SÁNCHEZ, FRANCISCO",{'Skepticism -- Early works to 1800'},PHILOSOPHY
+459,12840,LOGICA,"PIQUER, ANDRES","{'Logic', 'Knowledge, Theory of'}",PHILOSOPHY
+460,44173,FILOSOFÍA AMERICANA: ENSAYOS,"MOLINA, ENRIQUE","{'Philosophy, American', 'National characteristics, American'}",PHILOSOPHY
+461,16132,"FILOSOFÍA FUNDAMENTAL, TOMO II","BALMES, JAIME LUCIANO",{'Philosophy'},PHILOSOPHY
+462,73064,MORAL SOCIAL : $B APRECIACIÓN DE HOSTOS,"HOSTOS, EUGENIO MARÍA DE","{'Ethics', 'Social ethics'}",PHILOSOPHY
+463,53718,"REVISTA DE FILOSOFÍA, AÑO V - Nº 3 - MAY/1919: CULTURA—CIENCIAS—EDUCACIÓN",VARIOUS,"{'Spanish literature -- Periodicals', 'Humanities -- Periodicals'}",PHILOSOPHY
+464,28430,"FILOSOFÍA FUNDAMENTAL, TOMO IV","BALMES, JAIME LUCIANO",{'Philosophy'},PHILOSOPHY
+465,64974,EL HOMBRE MEDIOCRE: ENSAYO DE PSICOLOGIA Y MORAL,"INGENIEROS, JOSÉ","{'Character', 'Human beings'}",PHILOSOPHY
+466,30175,LOS PRINCIPIOS MATEMÁTICO-HISTÓRICOS Y LA EVOLUCIÓN DE LA LIBERTAD,"FERNÁNDEZ BOLÍVAR, VÍCTOR JOSÉ",{'History -- Philosophy'},PHILOSOPHY
+467,56301,HACIA UNA MORAL SIN DOGMAS: LECCIONES SOBRE EMERSON Y EL ETICISMO,"INGENIEROS, JOSÉ","{'Ethics', 'Emerson, Ralph Waldo, 1803-1882 -- Ethics', 'Sarmiento, Domingo Faustino, 1811-1888'}",PHILOSOPHY
+468,57448,MEDITACIONES DEL QUIJOTE,"ORTEGA Y GASSET, JOSÉ","{'Fiction', 'Cervantes Saavedra, Miguel de, 1547-1616. Don Quixote', 'Aesthetics'}",PHILOSOPHY
+469,59852,DEL SENTIMIENTO TRÁGICO DE LA VIDA,"UNAMUNO, MIGUEL DE","{'Faith and reason -- Christianity', 'Immortality -- Christianity', 'Tragic, The -- Religious aspects -- Christianity'}",PHILOSOPHY
+470,59797,EL PROTESTANTISMO COMPARADO CON EL CATOLICISMO EN SUS RELACIONES CON LA CIVILIZACIÓN EUROPEA (VOLS 1-2),"BALMES, JAIME LUCIANO","{'Catholic Church -- Apologetic works', 'Christian civilization', 'Catholic Church -- Doctrines -- Catholic authors', 'Protestantism', 'Europe -- Civilization'}",PHILOSOPHY
+471,53867,LIRA PÓSTUMA: OBRAS COMPLETAS VOL. XXI,"DARÍO, RUBÉN",{'Nicaraguan poetry'},POETRY
+472,68015,AMORES: ELEGÍAS AMATORIAS,OVID,"{'Love poetry, Latin -- Translations into Spanish'}",POETRY
+473,68131,OBRAS,"VEGA, GARCILASO DE LA","{'Spanish poetry -- Classical period, 1500-1700'}",POETRY
+474,70984,EN LAS ORILLAS DEL SAR,"CASTRO, ROSALÍA DE",{'Spanish poetry -- 19th century'},POETRY
+475,18600,MI ULTIMO ADIÓS,"RIZAL, JOSÉ",{'Poetry'},POETRY
+476,46201,"ORLANDO FURIOSO, TOMO I","ARIOSTO, LODOVICO",{'Roland (Legendary character) -- Romances'},POETRY
+477,51569,POEMA DEL OTOÑO Y OTROS POEMAS: OBRAS COMPLETAS VOL. XI,"DARÍO, RUBÉN",{'Nicaraguan poetry'},POETRY
+478,55480,"GRANADA, POEMA ORIENTAL, PRECEDIDO DE LA LEYENDA DE AL-HAMAR, TOMO 1","ZORRILLA, JOSÉ",{'Granada (Spain) -- History -- Poetry'},POETRY
+479,63823,NUEVAS POESÍAS Y EVANGÉLICAS: CON UN ESTUDIO DEL DR. ALFREDO PALACIOS,ALMAFUERTE,"{'Argentine poetry', 'Argentine literature'}",POETRY
+480,49333,COPLAS POR LA MUERTE DE SU PADRE,"MANRIQUE, JORGE",{'Bereavement -- Poetry'},POETRY
+481,57303,LA DIVINA COMEDIA,DANTE ALIGHIERI,"{'Dante Alighieri, 1265-1321 -- Adaptations', 'Epic poetry, Italian -- Adaptations'}",POETRY
+482,45180,POETAS DE COLOR,"CALCAGNO, FRANCISCO","{'Poets, Cuban', 'Authors, Black -- Cuba'}",POETRY
+483,58221,LA ODISEA,HOMER,"{'Odysseus, King of Ithaca (Mythological character)', 'Epic poetry, Greek -- Translations into Spanish'}",POETRY
+484,49063,"ORLANDO FURIOSO, TOMO II","ARIOSTO, LODOVICO",{'Roland (Legendary character) -- Romances'},POETRY
+485,67092,EL PARAÍSO PERDIDO,"MILTON, JOHN","{'Milton, John, 1608-1674', 'Milton, John, 1608-1674 -- Adaptations'}",POETRY
+486,57648,ROMANCERO SELECTO DEL CID,ANONYMOUS,"{'Ballads, Spanish', 'Cid, approximately 1043-1099 -- Romances'}",POETRY
+487,66338,METAMORFÓSEOS O TRANSFORMACIONES (2 DE 4),OVID,"{'Classical literature', 'Metamorphosis -- Mythology', 'Fables, Latin -- Translations into Spanish', 'Mythology, Classical'}",POETRY
+488,15066,LA VUELTA DE MARTÍN FIERRO,"HERNÁNDEZ, JOSÉ",{'Gauchos -- Poetry'},POETRY
+489,16625,CLÁSICOS CASTELLANOS: LIBRO DE BUEN AMOR,"RUIZ, JUAN",{'Spanish poetry -- To 1500'},POETRY
+490,16201,PARNASO FILIPINO: ANTOLOGÍA DE POETAS DEL ARCHIPELAGO MAGELLANICO,"MARTÍN DE LA CÁMARA, EDUARDO","{'Philippines -- Biography', 'Philippine poetry (Spanish)'}",POETRY
+491,67197,ENEIDA; V. 2 DE 2,VIRGIL,"{'Aeneas (Legendary character) -- Poetry', 'Epic poetry, Latin -- Translations into Spanish'}",POETRY
+492,50341,"CANTOS DE VIDA Y ESPERANZA, LOS CISNES Y OTROS POEMAS.: OBRAS COMPLETAS VOL. VII","DARÍO, RUBÉN",{'Nicaraguan poetry'},POETRY
+493,64775,LOS LUSÍADAS: POEMA ÉPICO EN DIEZ CANTOS,"CAMÕES, LUÍS DE","{'Explorers -- Portugal -- Poetry', 'Epic poetry, Portuguese -- Translations into Spanish', 'Portuguese poetry -- Classical period, 1500-1700 -- Translations into Spanish', 'Portugal -- Colonies -- Asia -- Poetry', 'Gama, Vasco da, 1469-1524 -- Poetry', 'India -- Discovery and exploration -- Poetry'}",POETRY
+494,51458,"CANTO A LA ARGENTINA, ODA A MITRE Y OTROS POEMAS: OBRAS COMPLETAS VOL. IX","DARÍO, RUBÉN",{'Nicaraguan poetry'},POETRY
+495,56451,"EL PAYADOR, VOL. I: HIJO DE LA PAMPA","LUGONES, LEOPOLDO","{'Hernández, José, 1834-1886. Martín Fierro', 'Gauchos -- Argentina', 'Folk songs, Spanish -- Argentina -- History and criticism'}",POETRY
+496,66337,METAMORFÓSEOS O TRANSFORMACIONES (1 DE 4),OVID,"{'Classical literature', 'Metamorphosis -- Mythology', 'Fables, Latin -- Translations into Spanish', 'Mythology, Classical'}",POETRY
+497,57654,LA ILÍADA,HOMER,"{'Trojan War', 'Achilles (Mythological character)', 'Epic poetry, Greek -- Translations into Spanish'}",POETRY
+498,23239,LA COPA DE VERLAINE,"CARRERE, EMILIO",{'Fiction'},POETRY
+499,64058,FÁBULAS Y CUENTOS EN VERSO: SELECCIÓN,,"{'Fables, Spanish'}",POETRY
+500,63378,EL CORAZÓN JUGLAR,"URBINA, LUIS G. (LUIS GONZAGA)",{'Mexican poetry'},POETRY
+501,29497,FÁBULAS LITERARIAS,"IRIARTE, TOMÁS DE","{'Fables, Spanish'}",POETRY
+502,68525,POESÍAS COMPLETAS,"MACHADO, ANTONIO",{'Spanish poetry'},POETRY
+503,66340,METAMORFÓSEOS O TRANSFORMACIONES (4 DE 4),OVID,"{'Classical literature', 'Metamorphosis -- Mythology', 'Fables, Latin -- Translations into Spanish', 'Mythology, Classical'}",POETRY
+504,9980,PLATERO Y YO,"JIMÉNEZ, JUAN RAMÓN","{'Authors -- Fiction', 'Donkeys -- Fiction', 'Andalusia (Spain) -- Social life and customs -- Fiction'}",POETRY
+505,55206,FÁBULAS,"SAMANIEGO, FÉLIX MARÍA","{'Spanish poetry', 'Fables, Spanish'}",POETRY
+506,65880,LAS CIEN MEJORES POESÍAS (LÍ­RICAS) DE LA LENGUA CASTELLANA,,{'Spanish poetry'},POETRY
+507,75703,LIBRO DE POEMAS,"GARCÍA LORCA, FEDERICO",{'Spanish poetry -- 20th century'},POETRY
+508,61415,MÍSTICAS; POESÍAS,"ADLER, MARÍA RAQUEL",{'Argentine poetry'},POETRY
+509,67961,EL ARTE DE AMAR,OVID,"{'Ovid, 43 B.C.-17 A.D. or 18 A.D. -- Translations into Spanish', 'Love poetry, Latin -- Translations into Spanish', 'Man-woman relationships -- Rome -- Poetry', 'Didactic poetry, Latin -- Translations into Spanish', 'Erotic poetry, Latin -- Translations into Spanish', 'Seduction -- Poetry'}",POETRY
+510,35407,RIMAS,"MITRE, BARTOLOMÉ",{'Poetry'},POETRY
+511,14765,EL GAUCHO MARTÍN FIERRO,"HERNÁNDEZ, JOSÉ",{'Gauchos -- Poetry'},POETRY
+512,61508,ENEIDA; V.1 DE 2,VIRGIL,"{'Aeneas (Legendary character) -- Poetry', 'Epic poetry, Latin -- Translations into Spanish'}",POETRY
+513,16319,"IMPRESIONES, POESÍAS","CAMPO ARANA, JOSÉ",{'Poetry'},POETRY
+514,58103,20 POEMAS PARA SER LEÍDOS EN EL TRANVÍA,"GIRONDO, OLIVERIO",{'Argentine poetry'},POETRY
+515,51711,EL CANTO ERRANTE: OBRAS COMPLETAS VOL. XVI,"DARÍO, RUBÉN",{'Nicaraguan poetry'},POETRY
+516,58275,"GRANADA, POEMA ORIENTAL, PRECEDIDO DE LA LEYENDA DE AL-HAMAR, TOMO 2","ZORRILLA, JOSÉ",{'Granada (Spain) -- History -- Poetry'},POETRY
+517,72665,ROMANCERO GITANO,"GARCÍA LORCA, FEDERICO",{'Spanish poetry -- 20th century'},POETRY
+518,25317,"LA ARGENTINA, O LA CONQUISTA DEL RIO DE LA PLATA. POEMA HISTÓRICO","BARCO CENTENERA, MARTÍN DEL","{'America -- Early accounts to 1600', 'America -- Discovery and exploration -- Spanish -- Poetry', 'Rio de la Plata Region (Argentina and Uruguay) -- History -- Poetry', 'Argentina -- History -- 1535-1617 -- Poetry'}",POETRY
+519,25807,POEMAS,"POE, EDGAR ALLAN",{'American poetry -- Translations into Spanish'},POETRY
+520,47650,PROSAS PROFANAS: OBRAS COMPLETAS VOL. II,"DARÍO, RUBÉN",{'Nicaraguan poetry'},POETRY
+521,39209,PLATERO Y YO,"JIMÉNEZ, JUAN RAMÓN","{'Authors -- Fiction', 'Donkeys -- Fiction', 'Andalusia (Spain) -- Social life and customs -- Fiction'}",POETRY
+522,66339,METAMORFÓSEOS O TRANSFORMACIONES (3 DE 4),OVID,"{'Classical literature', 'Metamorphosis -- Mythology', 'Fables, Latin -- Translations into Spanish', 'Mythology, Classical'}",POETRY
+523,41884,LA SITUACION DE PUERTO-RICO: LAS FALACIAS DE LOS CONSERVADORES Y LOS COMPROMISOS DEL PARTIDO RADICAL,ANONYMOUS,"{'Slavery -- Puerto Rico', 'Puerto Rico -- Politics and government -- To 1898'}",POLITICAL SCIENCE
+524,42321,LO QUE DICE LA HISTORIA: CARTAS AL SEÑOR MINISTRO DE ULTRAMAR,"BRAU, SALVADOR","{'Puerto Rico -- History', 'Puerto Rico -- Politics and government -- To 1898'}",POLITICAL SCIENCE
+525,39930,EL PROLETARIO EN ESPAÑA Y EL NEGRO EN CUBA,"ESPINOSA, RAMÓN J.","{'Slavery -- Cuba', 'Spain -- Social life and customs', 'Cuba -- Social life and customs'}",POLITICAL SCIENCE
+526,20855,ESTATUTO DE LA L. F. (LIGA FILIPINA),"RIZAL, JOSÉ",{'Liga Filipina'},POLITICAL SCIENCE
+527,14839,FILIPINAS DENTRO DE CIEN AÑOS (ESTUDIO POLITICO-SOCIAL),"RIZAL, JOSÉ","{'Philippines -- Social conditions', 'Philippines -- Politics and government'}",POLITICAL SCIENCE
+528,67939,EL CAPITAL: RESUMIDO Y ACOMPAÑADO DE UN ESTUDIO SOBRE EL SOCIALISMO CIENTÍFICO,"MARX, KARL","{'Socialism', 'Wages', 'Economics', 'Capital'}",POLITICAL SCIENCE
+529,52499,CUESTIONES POLÍTICAS Y ECONÓMICAS,"HUERGO, PALEMÓN","{'Argentina -- Politics and government -- 1817-1860', 'Argentina -- Economic conditions'}",POLITICAL SCIENCE
+530,46771,COMENTARIOS A LA CONSTITUCION DE LOS ESTADOS UNIDOS DE AMÉRICA,"KENT, JAMES",{'Constitutional law -- United States'},POLITICAL SCIENCE
+531,62019,POLÍTICA AMERICANA,"CALVO, ALEJANDRO","{'Monroe doctrine', 'Latin America -- Relations -- United States', 'United States -- Relations -- Latin America'}",POLITICAL SCIENCE
+532,47346,"ESCRITOS POLÍTICOS, ECONÓMICOS Y LITERARIOS","VARELA, FLORENCIO","{'Argentina -- Politics and government -- 1817-1860', 'Argentina -- History -- 1817-1860', 'Argentine literature', 'Argentina -- Economic conditions'}",POLITICAL SCIENCE
+533,53413,PROSA POLÍTICA (LAS REPÚBLICAS AMERICANAS): OBRAS COMPLETAS VOL. XIII,"DARÍO, RUBÉN","{'America', 'Latin America -- Politics and government'}",POLITICAL SCIENCE
+534,67555,ADHESIONES Á LA VENTA DE LOS FERRO-CARRILES DE LA PROVINCIA,"GONNET, MANUEL B.",{'Railroads -- Argentina'},POLITICAL SCIENCE
+535,14722,CONTESTACIONES Y CONSIDERACIONES: AL PUEBLO Y CONGRESO NORTE-AMERICANOS,"MABINI, APOLINARIO","{'Philippines -- History -- Philippine American War, 1899-1902'}",POLITICAL SCIENCE
+536,57982,ESPAÑA INVERTEBRADA: BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS,"ORTEGA Y GASSET, JOSÉ",{'Spain -- Civilization -- Philosophy'},POLITICAL SCIENCE
+537,45508,LA POLÍTICA DE LOS ESTADOS UNIDOS EN EL CONTINENTE AMERICANO,"CÁRDENAS Y ECHARTE, RAÚL DE","{'Latin America -- Foreign relations -- United States', 'Monroe doctrine', 'United States -- Foreign relations -- Latin America', 'United States -- Territorial expansion'}",POLITICAL SCIENCE
+538,54282,SOCIALISMO Y CIENCIA POSITIVA (DARWIN-SPENCER-MARX),"FERRI, ENRICO","{'Socialism', 'Spencer, Herbert, 1820-1903', 'Evolution'}",POLITICAL SCIENCE
+539,29061,RELACION HISTORIAL DE LAS MISIONES DE INDIOS CHIQUITOS QUE EN EL PARAGUAY TIENEN LOS PADRES DE LA COMPAÑÍA DE JESÚS,"FERNÁNDEZ, JUAN PATRICIO","{'Jesuits -- Missions -- Paraguay -- History', 'Chiquito Indians -- Missions', 'Guarani Indians -- Missions'}",RELIGION
+540,61573,LA PERFECTA CASADA,"LEÓN, LUIS DE",{'Marriage -- Early works to 1800'},RELIGION
+541,12500,BUENA NUEVA DE ACUERDO A MATEO: TRADUCCIÓN DE DOMINIO PÚBLICO ABIERTA A MEJORAS,,{'Bible. Matthew'},RELIGION
+542,65165,VIDA DE JESÚS,"RENAN, ERNEST","{'Jesus Christ -- Biography', 'Christian biography -- Palestine'}",RELIGION
+543,5878,REINA VALERA NEW TESTAMENT OF THE BIBLE 1858,,{'Bible. New Testament'},RELIGION
+544,5881,REINA VALERA NEW TESTAMENT OF THE BIBLE 1909,,{'Bible. New Testament'},RELIGION
+545,12502,BUENA NUEVA DE ACUERDO A LUCAS: TRADUCCIÓN DE DOMINIO PÚBLICO ABIERTA A MEJORAS,,{'Bible. Luke'},RELIGION
+546,12501,BUENA NUEVA DE ACUERDO A MARCOS: TRADUCCIÓN DE DOMINIO PÚBLICO ABIERTA A MEJORAS,,{'Bible. Mark'},RELIGION
+547,65410,LOS APÓSTOLES,"RENAN, ERNEST",{'Apostles'},RELIGION
+548,5877,"REINA VALERA NEW TESTAMENT OF THE BIBLE 1602, BOOK OF MATTHEW",,{'Bible. New Testament'},RELIGION
+549,5880,REINA VALERA NEW TESTAMENT OF THE BIBLE 1865,,{'Bible. New Testament'},RELIGION
+550,33227,"LA FEE TRIUNFANTE EN QUATRO AUTOS: CELEBRADOS EN MALLORCA POR EL SANTO OFICIO DE LA INQUISICIÓN EN QUE HAN SALIDO OCHENTA Y OCHO REOS, Y DE TREINTA Y SIETE RELAJADOS SÓLO HUBO TRES PERTINACES.","GARAU, FRANCISCO",{'Inquisition -- Spain -- Majorca'},RELIGION
+551,62356,DEFENSA OBLIGADA CONTRA ACUSACIONES GRATUITAS,"NOZALEDA, BERNARDINO","{'War -- Religious aspects', 'Spanish-American War, 1898 -- Religious aspects', 'Nozaleda, Bernardino 1844-1927', 'Spanish-American War, 1898 -- Personal narratives, Spanish'}",RELIGION
+552,12503,BUENA NUEVA DE ACUERDO A JUAN: TRADUCCIÓN DE DOMINIO PÚBLICO ABIERTA A MEJORAS,,{'Bible. John'},RELIGION
+553,5879,REINA VALERA NEW TESTAMENT OF THE BIBLE 1862,,{'Bible. New Testament'},RELIGION
+554,14329,"VIAJES DE UN COLOMBIANO EN EUROPA, PRIMERA SERIE","SAMPER, JOSÉ MARÍA",{'Europe -- Description and travel'},TRAVEL
+555,18784,ITINERARIO DE BUENOS AIRES A CORDOBA,"SOURRYÈRE DE SOUILLAC, JOSÉ","{'Buenos Aires (Argentina : Province) -- Description and travel', 'Argentina -- Discovery and exploration', 'Córdoba (Argentina : Province) -- Description and travel'}",TRAVEL
+556,15046,"UN PASEO POR PARIS, RETRATOS AL NATURAL","BARCIA, ROQUE","{'Paris (France) -- Social life and customs', 'Paris (France) -- Description and travel'}",TRAVEL
+557,29014,EN VIAJE (1881-1882),"CANÉ, MIGUEL","{'Voyages and travels', 'Colombia -- Description and travel'}",TRAVEL
+558,48651,"VIAJE A AMERICA, TOMO 1 DE 2: ESTADOS UNIDOS, EXPOSICIÓN UNIVERSAL DE CHICAGO, MÉXICO, CUBA Y PUERTO RICO","PUIG Y VALLS, RAFAEL","{'Mexico -- Description and travel', 'Cuba -- Description and travel', 'United States -- Description and travel', ""World's Columbian Exposition (1893 : Chicago, Ill.)""}",TRAVEL
+559,12435,PAGINAS SUDAMERICANAS,"PHIPPS, HELEN",{'Spanish language -- Readers'},TRAVEL
+560,63810,LA VUELTA AL MUNDO DE UN NOVELISTA; VOL. 1/3,"BLASCO IBÁÑEZ, VICENTE",{'Voyages around the world'},TRAVEL
+561,49354,"VIAJE A LOS ESTADOS UNIDOS, TOMO I","PRIETO, GUILLERMO",{'United States -- Description and travel'},TRAVEL
+562,18783,DIARIO DEL VIAJE AL RIO BERMEJO,"MORILLO, FRANCISCO","{'Gran Chaco -- Discovery and exploration', 'Bermejo River (Bolivia and Argentina) -- Discovery and exploration'}",TRAVEL
+563,53742,RECUERDOS DE ITALIA (PARTE 2 DE 2),"CASTELAR, EMILIO","{'Rome (Italy) -- Description and travel', 'Italy -- Description and travel'}",TRAVEL
+564,52857,TIERRAS SOLARES: OBRAS COMPLETAS VOL. III,"DARÍO, RUBÉN","{'Darío, Rubén, 1867-1916 -- Travel -- Spain -- Andalusia', 'Europe -- Description and travel', 'Darío, Rubén, 1867-1916 -- Travel -- Europe', 'Andalusia (Spain) -- Description and travel', 'Authors, Nicaraguan -- 20th century -- Travel'}",TRAVEL
+565,65719,LA FAMILIA DE DOCTOR PEDRAZA,"BLASCO IBÁÑEZ, VICENTE",{'Spanish fiction -- 20th century'},TRAVEL
+566,51870,PEREGRINACIONES: OBRAS COMPLETAS VOL. XII,"DARÍO, RUBÉN","{'Exposition universelle (1900 : Paris, France)', 'Paris (France) -- Social life and customs', 'Italy -- Description and travel'}",TRAVEL
+567,30275,LA RANA VIAJERA,"CAMBA, JULIO","{'Spain -- Description and travel -- Anecdotes, facetiae, satire, etc.'}",TRAVEL
+568,57828,COSAS DE ESPAÑA; TOMO 1: (EL PAÍS DE LO IMPREVISTO),"FORD, RICHARD",{'Spain -- Description and travel'},TRAVEL
+569,51019,"LA BIBLIA EN ESPAÑA, TOMO I (DE 3): O VIAJES, AVENTURAS Y PRISIONES DE UN INGLÉS EN SU INTENTO DE DIFUNDIR LAS ESCRITURAS POR LA PENÍNSULA","BORROW, GEORGE","{'Borrow, George, 1803-1881 -- Travel -- Spain', 'Spain -- Description and travel', 'Spain -- History -- 19th century'}",TRAVEL
+570,64418,PAISAJES ARGENTINOS,"SALAVERRÍA, JOSÉ MARÍA",{'Argentina -- Description and travel'},TRAVEL
+571,26314,VIAJES POR ESPAÑA,"ALARCÓN, PEDRO ANTONIO DE","{'Spain -- Description and travel', 'Spain -- Social life and customs -- 19th century'}",TRAVEL
+572,13492,VIAJES POR EUROPA Y AMÉRICA,"PETANO Y MAZARIEGOS, GORGONIO","{'Europe -- Description and travel', 'South America -- Description and travel'}",TRAVEL
+573,40182,ORIENTE,"BLASCO IBÁÑEZ, VICENTE","{'Europe -- Description and travel', 'Istanbul (Turkey) -- Description and travel', 'Blasco Ibáñez, Vicente, 1867-1928 -- Travel -- Europe'}",TRAVEL
+574,51689,"LA BIBLIA EN ESPAÑA, TOMO III (DE 3): O VIAJES, AVENTURAS Y PRISIONES DE UN INGLÉS EN SU INTENTO DE DIFUNDIR LAS ESCRITURAS POR LA PENÍNSULA","BORROW, GEORGE","{'Borrow, George, 1803-1881 -- Travel -- Spain', 'Spain -- Description and travel', 'Spain -- History -- 19th century'}",TRAVEL
+575,12274,VIAJES POR FILIPINAS: DE MANILA Á MARIANAS,"ALVAREZ GUERRA, JUAN",{'Philippines -- Description and travel'},TRAVEL
+576,59189,"DESCRIPCION GEOGRAFICA DE UN NUEVO CAMINO DE LA GRAN CORDILLERA,: PARA FACILITAR LAS COMUNICACIONES DE BUENOS-AIRES CON CHILE","SOURRYÈRE DE SOUILLAC, JOSÉ","{'Cerro y Zamudio, José Santiago', 'Maule (Chile : Region)', 'Mendoza (Argentina : Province)', 'Argentina -- Discovery and exploration', 'Talca (Chile : Province)', 'Mountain passes -- Andes'}",TRAVEL
+577,49376,DEL PLATA AL NIAGARA,"GROUSSAC, PAUL","{'America -- Description and travel', 'Groussac, Paul, 1848-1929', 'Latin America -- Description and travel', 'United States -- Description and travel'}",TRAVEL
+578,12275,VIAJES POR FILIPINAS: DE MANILA Á ALBAY,"ALVAREZ GUERRA, JUAN",{'Philippines -- Description and travel'},TRAVEL
+579,58910,"VIAJE A LOS ESTADOS UNIDOS, TOMO III","PRIETO, GUILLERMO",{'United States -- Description and travel'},TRAVEL
+580,67348,ESTADOS UNIDOS,"SARMIENTO, DOMINGO FAUSTINO",{'United States -- Description and travel'},TRAVEL
+581,12276,VIAJES POR FILIPINAS: DE MANILA Á TAYABAS,"ALVAREZ GUERRA, JUAN",{'Philippines -- Description and travel'},TRAVEL
+582,15054,"VIAJES DE UN COLOMBIANO EN EUROPA, SEGUNDA SERIE","SAMPER, JOSÉ MARÍA",{'Europe -- Description and travel'},TRAVEL
+583,73044,POR LAS DOS AMÉRICAS : $B NOTAS Y REFLEXIONES,"MOLINA, ENRIQUE","{'South America -- Description and travel', 'America -- Description and travel', 'United States -- Description and travel'}",TRAVEL
+584,48652,"VIAJE A AMERICA, TOMO 2 DE 2: ESTADOS UNIDOS, EXPOSICIÓN UNIVERSAL DE CHICAGO, MÉXICO, CUBA Y PUERTO RICO","PUIG Y VALLS, RAFAEL","{'Mexico -- Description and travel', 'Cuba -- Description and travel', 'United States -- Description and travel', ""World's Columbian Exposition (1893 : Chicago, Ill.)""}",TRAVEL
+585,51020,"LA BIBLIA EN ESPAÑA, TOMO II (DE 3): O VIAJES, AVENTURAS Y PRISIONES DE UN INGLÉS EN SU INTENTO DE DIFUNDIR LAS ESCRITURAS POR LA PENÍNSULA","BORROW, GEORGE","{'Borrow, George, 1803-1881 -- Travel -- Spain', 'Spain -- Description and travel', 'Spain -- History -- 19th century'}",TRAVEL
+586,37590,CÓRDOBA,"MADRAZO, PEDRO D.",{'Córdoba (Spain) -- Description and travel'},TRAVEL
+587,54471,"EL VIAJE A NICARAGUA É HISTORIA DE MIS LIBROS: OBRAS COMPLETAS, VOL. XVII","DARÍO, RUBÉN",{'Nicaragua -- Description and travel'},TRAVEL
+588,58916,COSAS DE ESPAÑA; TOMO 2: (EL PAÍS DE LO IMPREVISTO),"FORD, RICHARD",{'Spain -- Description and travel'},TRAVEL
+589,63816,LA VUELTA AL MUNDO DE UN NOVELISTA; VOL. 2/3,"BLASCO IBÁÑEZ, VICENTE",{'Voyages around the world'},TRAVEL
+590,53741,RECUERDOS DE ITALIA (PARTE 1 DE 2),"CASTELAR, EMILIO","{'Rome (Italy) -- Description and travel', 'Italy -- Description and travel'}",TRAVEL
+591,56519,"VIAJE A LOS ESTADOS UNIDOS, TOMO II","PRIETO, GUILLERMO",{'United States -- Description and travel'},TRAVEL
+592,63587,ESTAMPAS DE VIAJE: ESPAÑA EN LOS DÍAS DE LA GUERRA,"URBINA, LUIS G. (LUIS GONZAGA)",{'Spain -- Description and travel'},TRAVEL
